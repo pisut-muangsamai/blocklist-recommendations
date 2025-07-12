@@ -1,8 +1,10 @@
 ################################################################
-# Recommended MD5 Block List                                   #
+# Recommended IP Block List                                    #
 # Tag: TLP="clear"                                             #
-# Last updated: 2025-07-12 17:27:13 +07                        #
+# Last updated: 2025-07-12 17:28:32 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 ################################################################
-bbc7fc957d4fff6a55bd004a3d124dda
+194.164.64.52
+151.106.96.4
+47.238.28.21
