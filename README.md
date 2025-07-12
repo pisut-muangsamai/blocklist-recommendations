@@ -1,4 +1,3 @@
-# blocklist-recommendations
 # IOC Blocklist Repository
 
 This repository maintains a set of curated blocklists and hash-based IOCs to help defenders identify and block known malicious artifacts.
