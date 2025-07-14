@@ -16,6 +16,7 @@ We include both **high-confidence** and **medium-confidence** IOCs based on sour
 | Talos Intelligence | Domain/IP        | Cisco's threat intel feed for malware infrastructure and emerging threats   | https://talosintelligence.com/  |
 | ANY.RUN            | Hashes           | Behavioral sandbox reports and malware hashes contributed by analysts       | https://any.run/                |
 | PhishTank          | Phishing URLs    | Community-based feed of verified phishing URLs                              | https://phishtank.org/          |
+| OpenPhish          | Phishing URLs    | OpenPhish Community Phishing Feed                                           | https://openphish.com/          |
 
 ---
 
