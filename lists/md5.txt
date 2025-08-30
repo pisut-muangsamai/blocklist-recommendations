@@ -1,7 +1,7 @@
 ################################################################
 # Recommended MD5 Block List                                   #
 # Tag: TLP="clear"                                             #
-# Last updated: 2025-08-29 18:15:37 +07                        #
+# Last updated: 2025-08-30 18:15:36 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 ################################################################
@@ -258,7 +258,6 @@
 4410fa46543e3ccbcb8de3af06529880
 44143827116c96f5dcace4f95dff8697
 442ab067bf78067f5db5d515897db15c
-44370f5c977e415981febf7dbb87a85c
 443a00feeb3beaea02b2fbcd4302a3c9
 4544d5bac9523ac75e0d4b814d3217d3
 46b2cfef633e6e531928a9c606b40b16
@@ -413,7 +412,6 @@
 7f05a928c77cb87ffb510168c1b0b11b
 7f3d07220529742bdc1827186b73666a
 7f60de33b45b724ba5e210a7b368f27a
-80d852cd199ac923205b61658a9ec5bc
 81896b186e0e66f762e1cb1c2e5b25fc
 81cd20319c8f0b2ce499f9253ce0a6a8
 8244b0c39a2e838465e2902e286525b5
