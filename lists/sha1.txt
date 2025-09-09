@@ -1,7 +1,7 @@
 ################################################################
 # Recommended SHA1 Block List                                #
 # Tag: TLP="clear"                                             #
-# Last updated: 2025-09-07 18:00:17 +07                        #
+# Last updated: 2025-09-09 21:15:32 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 ################################################################
@@ -87,6 +87,7 @@
 3c734b9c24087898cfbfb58b3a53c44592356389
 3c8d106f63d1ed921f9b8c7d103d73cd591fe19c
 3d38abc7786a1b01e06cc46a8c660f48849b2b5f
+3e3bc1101c25f56963dc1c7f8abc6dd054133508
 3e6cd9d07b8ece706697f332ac9f32de5ecaf086
 3e9198e9546fa73ef93946f272093092363eb3e2
 3f0071d64edd72d7d92571cf5e4a5e82720c5a9b
@@ -96,6 +97,7 @@
 407df08aff048b7d05fd7636be3bc9baa699646d
 40ef100472209e55877b63bf817982e74933b3f8
 41008d8a157784dfdde11cac20653b1af2ee8cd9
+4278801d47b15c1e9ef94c28c599c3156fd65812
 44ddabf5b5d601077936a130a2863a96d2af1c8e
 44feb2d7d7eabf78a46e6cc6abdd281f993ab301
 4528215707a923404e3ca7667b656ae50cef54ef
@@ -132,6 +134,7 @@
 5d1f44a2b992b42253750ecaed908c61014b735a
 5d4d7c96a9e302053bdfaf2449f9a2ab3c806e63
 5dfc2d0858dd7e811cd19938b8c28468be494cb6
+5f3a99679c6858e7cfb90990c6892a584d678ac1
 5f97d7aeb20d56df918b313520958eaa88ea6e52
 612f61b2084820a1fcd5516dc74a23c1b6eaa105
 61a0cb64ca1ba349550176ef0f874dd28eb0abfa
@@ -225,6 +228,7 @@ b017cee02d74c92b2c65517101dc72afa7d18f16
 b070b89e68c29b870bd7e7bb233d36a2fc0af52d
 b23d0939b17b654f2218268a896928e884a28e60
 b3811c2570612223c8e93940b8353050dc63e6aa
+b498a2683640c983bb069fa2ea9e67cef4a3797d
 b53ccd0fe75b8b36459196b666b64332f8e9e213
 b625cc9e4024d09084e80a4a42ab7ccaa6afb61d
 b746c91e014205db94f775bb6db480387c9ebc20
