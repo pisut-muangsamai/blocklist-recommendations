@@ -1,7 +1,7 @@
 ################################################################
 # Recommended URL Block List                                #
 # Tag: TLP="clear"                                             #
-# Last updated: 2025-09-24 18:00:25 +07                        #
+# Last updated: 2025-09-25 18:00:26 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 ################################################################
@@ -60,6 +60,7 @@ http://128.140.70.83:8080/panamera.dll
 http://12u0-casefb350612.vercel.app/
 http://130.33.156.194/main.exe
 http://135.125.107.221
+http://136.243.146.46:8898
 http://138.68.27.0
 http://139.84.156.79/dst-x86.bin
 http://13ov5ypehzqx5l.org:443/
@@ -292,6 +293,8 @@ http://45.94.47.147/contact
 http://45.94.47.167/contact
 http://46.30.188.243/class/mcrypt.php
 http://46jv5iyy16qmfp.org:443/
+http://47.103.218.35/GSjY
+http://47.103.218.35/pixel
 http://47.97.113.36:10010/02.08.2022.exe
 http://49du87ynddqyr2.org:443/
 http://49rglxiuv631w9.org:443/
@@ -474,6 +477,7 @@ http://access-robihood-com-authd.typedream.app/
 http://access-trezor-bridge-download-us.pages.dev/
 http://access.santdbpplc.com/
 http://account-0oogle.github.io/
+http://account-at-fire.github.io/my-jan
 http://account-support-meta.surge.sh/alfditz.php
 http://account-support-meta.surge.sh/community-standard-case-id=5325807645/
 http://account-verification.github.io/att2/
@@ -624,6 +628,7 @@ http://antoniorompenabos89.42web.io/
 http://anubrr21.github.io/amazon.in
 http://anweshacpoddar-cmyk.github.io/amazonphislogin
 http://aoobpcuhxr.duckdns.org/en/
+http://aopamakau.justns.ru/itoo/itoo/it/conto
 http://ap-northeast-1.s3-azure.com
 http://apc-apc.com/images/images/docusign.html
 http://aphold_log5.godaddysites.com/
@@ -801,6 +806,7 @@ http://bafybeibuziyvpli7ev44bnnvaqqpes7gm74fdrrazg6lgfkibjeu4shuxe.ipfs.dweb.lin
 http://bafybeibydkf55yygjnvwhw3qjczx3j65byqjp3giw42mqa3e7xbzsncf5y.ipfs.w3s.link/never3.htm
 http://bafybeiccic2fbpgxpd3nfbfzo2vqcrtyqg2pwxhc7wuah5jt2xiux22dza.ipfs.w3s.link/jlhashLOL112wwu092tt.html
 http://bafybeicdaibqcinsl5c2zhd7jgycr5pefqe3bann36wpwwqi2gmjnbzb6u.ipfs.dweb.link/newtimen.html
+http://bafybeicdlst5kpwz64tr5pjmyjpqeuoqvl6mm3ps7lqgnl26tki2h66bym.ipfs.dweb.link/
 http://bafybeiclivjwvd6riuwlyru47xy7j7m3enczrqaflhbl6mfq3o3snaqrcy.ipfs.dweb.link/
 http://bafybeid2kyrhgkvukuaz3pxzpt6gjexevmdkd73nrtvciaxw3ecprvdlzm.ipfs.w3s.link/never2e(6).htm
 http://bafybeid5jtrh2dzvtc3u63zuvrxgim25kon2re54ih7oilxfiocsvn3nhy.ipfs.dweb.link/
@@ -1026,6 +1032,7 @@ http://ca-net-coins-auth.webflow.io/
 http://cainbasdpradoxdi.godaddysites.com/
 http://caixadirecta-assinar.com/
 http://caixadirecta-fechar.com/
+http://caixageral-analisar.com/
 http://cajewar736.wixsite.com/my-site/
 http://cancelalerbloksite.github.io/ofcaserestricnow/aces/helping/homes/
 http://cancelalerbloksite.github.io/ofcaserestricnow/aces/suspendsioon/teamshop/
@@ -1333,6 +1340,7 @@ http://cookcuin-logi.godaddysites.com/
 http://corporacion-desguridad-deti.mx/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a
 http://corporate-secure-mail.com/
 http://corporate-secure-mail.com/signin
+http://correos.page859657.shop/buy/216550206/
 http://cos4ti1mir-cl17laim-id.github.io/
 http://costumerxform.danahostzzx.biz.id/
 http://cowanbase_prwlogius.godaddysites.com/
@@ -1390,6 +1398,7 @@ http://cvmsv.3656l.co/
 http://cxcerqakqj.duckdns.org/en/
 http://cxdcyk.cn/xzswa
 http://cxs.pancakeswzp.financial/home
+http://cxsssff3.pwa-s6ax2.com/
 http://cyadxgcmag.duckdns.org/en/main
 http://cyber-watch-update.vercel.app/
 http://cybf5coa1t2xr2.org:443/
@@ -1434,6 +1443,7 @@ http://das-neue-wir-verbindet.de/
 http://data-sync-manager.vercel.app/
 http://dawn7077.github.io/Amazon_clone
 http://dbjcfea.pilot45.com/
+http://dbqo1.top/puvxrokt
 http://dcmetlhot.wixsite.com/my-site-1/
 http://dcndsw9u1opm4m.org:443/
 http://dcsimii.wixsite.com/my-site/
@@ -1525,8 +1535,10 @@ http://dlbqduy9gjprko.org:443/
 http://dlhessell.wixsite.com/att-support/
 http://dnaxz-1nxa.princeindx.biz.id/
 http://doc-exodusweb-en.pages.dev/
+http://docprotectharefilecloudservices.s3.us-west-1.amazonaws.com/documentvsserviceprocessingserivce.html
 http://docs-ledger-live-wallett.pages.dev/
 http://docs-metamassk-llogi.godaddysites.com/
+http://docs-uphold-wallet-io.pages.dev/
 http://docs.econeurqa.com/
 http://docsauth-site-65ecd073fe49f5d6720da8ce5.webflow.io/
 http://docstrezorlogin.pages.dev/
@@ -1658,6 +1670,7 @@ http://exadigital.com.ar/wp-admin/js/red/wx.htm?entity=14848333
 http://expert-trezor-wallet.pages.dev/
 http://explore-ledgerr-live-wallet-us.pages.dev/
 http://ext-help-support.pages.dev/
+http://ezd3ur.top/puvxrokt
 http://f.digitalmaillane.com/igit/4/34ianzoTjxgisufq60TcmgTlvbdrpT1u4T12uTdqT6Tz
 http://f.marvinkleinmusic.de/inventory.php
 http://f101z.xyz/
@@ -1943,6 +1956,7 @@ http://gkukvtxlew982a.org:443/
 http://gkzhokfntp.duckdns.org/en/
 http://gladys-54q.pages.dev/
 http://gleeful-babka-95a569.netlify.app/
+http://globalfreshus.com/
 http://glwozr.umtah.xyz/?tunHI
 http://go2save.app/
 http://gok.r1zow723p63050.workers.dev/
@@ -1959,6 +1973,7 @@ http://gov-dwpif.shop/index.html/
 http://gov-dwpif.top/index.html/
 http://gov-dwpii.top/index.html/
 http://gov-dwpiu.shop/index.html/
+http://gov-dwpqrw.top/uk
 http://gov-dwpte.top/uk
 http://gov-dwpti.top/uk
 http://gov-dwptx.top/uk
@@ -1976,6 +1991,7 @@ http://gov.uk-conformingc.wiki/uk/
 http://gov.uk-dwpcp.bond/uk/
 http://gov.uk-dwpdv.bond/uk/
 http://gov.uk-dwpnf.icu/uk/
+http://gov.uk-satisfyl.wiki/uk/
 http://gov.uk-winterh.wiki/uk/
 http://gov.winteao-uk.qpon/uk
 http://gov.wintecl-uk.qpon/uk
@@ -2473,6 +2489,7 @@ http://kmsihcsoink11l.org:443/
 http://knandkvnsfvsdjdv.pages.dev/
 http://knpoom.cn/xzswa
 http://koff5vkghy991i.org:443/
+http://koithea.pages.dev/
 http://konbassapro__logi.godaddysites.com/
 http://kontactr.com/form-page/1fd82ccfbe17ed6
 http://kooionn_logiii.godaddysites.com/
@@ -3470,6 +3487,7 @@ http://mypostbg.live/
 http://myskyverifyaccount.weebly.com/
 http://mystery-box-sandy.vercel.app/
 http://mystery-box2.vercel.app/
+http://myxjxv.cn/xzswa
 http://myy-buybit-auth.webflow.io/
 http://myy-bybit-auth.webflow.io/
 http://n.ehome521.com/
@@ -3560,6 +3578,7 @@ http://nfxreviews.com/
 http://nhhkl.blogspot.com.br/
 http://nidcafe-readpost.com/
 http://nignziz.cn/Login
+http://niharika-chenna.github.io/amazon_page
 http://nikitatale.github.io/amazon-frontend
 http://nisanth9182.github.io/Netflix-Clone
 http://nispgael.biz/7321a45c92764723.php
@@ -3748,6 +3767,7 @@ http://paypasecur.online/1509f496725e808ad75069f79d1dded8OGQwYTM0YTY4MzMwNWRhMjE
 http://paypasecur.online/ffb7812196c3c7acd75bccb909f19450NDYzZmQzMzM2YmJiYmM3MTIwMGE1NDQyMzVjOTk0ZTY=/
 http://paysafecard.wuaze.com/
 http://pb.dangd.cn/
+http://pb4.323.mytemp.website/wp-includes/member-ntflix.sncgp.pt
 http://pdfiurjmr.pages.dev/
 http://peeyuxdpkj.duckdns.org/en/
 http://peeyuxdpkj.duckdns.org/en/main
@@ -3770,6 +3790,7 @@ http://petrofac-files.com/ut/MR-List-27162195122.pdf
 http://phantom--walleth-join.webflow.io/
 http://phantomus.firebaseapp.com/
 http://phase-quantum-matrix.com/
+http://philipeparkerlaw.com/
 http://photosfileavailabel.github.io/conten-129880816521/console/combo/
 http://photosfileavailabel.github.io/conten-129880816521/public/anounce-remove/
 http://pickup.freightinternationalservices.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a
@@ -3784,6 +3805,7 @@ http://pkzwaki575nsll.org:443/
 http://plapwf.top/agnb
 http://plattformhochladenpdf-dokumenten.weebly.com/
 http://playful-performance-134061.framer.app/
+http://plfa1.vercel.app/
 http://pmrvuwm2oyykro.org:443/
 http://pngybhqff1ro25.org:443/
 http://po.ponchodotcom.sa.com/
@@ -3805,6 +3827,7 @@ http://portal-coinbase-pros-cdn.typedream.app/
 http://portal-ledegerlive-wallet-us.pages.dev/
 http://portal-live-ledgrewallet-us.pages.dev/
 http://portal-metamask-view-apps.typedream.app/
+http://portal-ndaxo-nav-auth.pages.dev/
 http://portal-sso--ndax-cdn-nav--r-oauth.webflow.io/
 http://portal-sso--ndaxio-io-cdn--oauth.webflow.io/
 http://portal-tresor-wallet.pages.dev/
@@ -3814,11 +3837,13 @@ http://portal.openledgerfoundation.xyz/
 http://portal.openledgerhq.click/
 http://portal__coinbasehelp.typedream.app/
 http://portaldecontratosdaconta.com.br/entrar.php
+http://portaldw.hypera.com.br/
 http://portrichsavfunds.com.metrotcb.com/
 http://posten.no-pn.cfd/pakke/home.html
 http://posten.no-px.cfd/pakke/
 http://powu2o5tfjjfcnsares6wytbhtqjl6qsef4he62ko7lcjpvcl7kq.g8way.io/e61NO7MqUlE2QIkl62JhPOCV-hIheHJ7SnfWJL6iX9U/
 http://ppfangyu66.com/
+http://ppsk.tap387238k.cc/
 http://ppsk.tap39260e2.cc/
 http://ppsk.tap3978vhe.cc/
 http://ppsk.tap40133bd.cc/
@@ -3843,6 +3868,7 @@ http://progredirpetrobras.site/home/
 http://project-trezor-io-logn.pages.dev/
 http://projectnet-6y5.pages.dev/?uid=autanbepioasrni@.sns
 http://projetomercadolivreversaoromulo.vercel.app/
+http://promosyonsizlerle.shop/
 http://propora.cn/xzswa
 http://proptruth.in/us/
 http://protitasrbx.netlify.app/
@@ -3857,6 +3883,7 @@ http://pub-049a67ec10bd4bb19484d969ee9e7535.r2.dev/st.html
 http://pub-0562dd1239744504922bb041e3f2f2eb.r2.dev/mila.html
 http://pub-089fc651c6d94c6fa7c926754f7d3016.r2.dev/zac.html
 http://pub-0984b38371af4d36a1743de1fe7f1917.r2.dev/index.html
+http://pub-09e2214cb867428ab398a70494a86213.r2.dev/index.html
 http://pub-0ae50a4c573c409f93585499aeac650f.r2.dev/cvbnmkjh.html
 http://pub-0ed5a1f263894eab8341e034994e9627.r2.dev/park.html
 http://pub-0f617cf046634d74a28566ce4b35830e.r2.dev/index.html
@@ -3915,6 +3942,7 @@ http://pub-5af16182c9ee4eeab846ae94706dcb80.r2.dev/frty.html
 http://pub-5b7d82e065ea4e2db598b3732faf9699.r2.dev/index.html
 http://pub-5f11b9974e614f609e3a198a30489fef.r2.dev/cfrtcdex.html
 http://pub-5f9157fad7fd426bad68e1875cc4842e.r2.dev/uhtdex.html
+http://pub-6059e78128214bbca12a011ee84c88f7.r2.dev/index.html
 http://pub-6147d6c64e7f4407b7a87743ce02914f.r2.dev/owa-webapp-outlook.html
 http://pub-6179f7b40073429c858246371a6233d0.r2.dev/rfpindex.html
 http://pub-61ac09141709473f837e393e6142aca0.r2.dev/zxcindex.html
@@ -3933,6 +3961,7 @@ http://pub-706e4526a3c54fb2b8127091ad588e1f.r2.dev/rebamnd.htm
 http://pub-71abda19dac44d1bb02dc6bc10008dc0.r2.dev/index.html
 http://pub-722720be67154192a1102b2cf085d306.r2.dev/askm.html
 http://pub-735053a4f94644cb81eb8a9ea49c452f.r2.dev/owaaa.html
+http://pub-7857e97bbff54509a1bedec37dcb11ce.r2.dev/online.html
 http://pub-7be95ce02232456db08522b3d3c99765.r2.dev/e5cc43015815732a4d38f73eec6434e3e5cc43015815732a4d38f73eec6434e3e5cc43015815732a4d38f73eec6434e3outl00k.html
 http://pub-7d056bfeb6b04852801553620fe62c0a.r2.dev/brtw.html
 http://pub-7fba1b15f67c48dab9fed7ef0dc5513b.r2.dev/OWA-Oulook-web-app.html
@@ -3951,13 +3980,17 @@ http://pub-8e7bd94069274b88ac6178304f8fd737.r2.dev/index.html
 http://pub-8f294ff38692471680fb5a8a4aed2b33.r2.dev/index.html
 http://pub-8f7e633e5eed4ea49d06f29a7e3d227d.r2.dev/DF1.html
 http://pub-95bd590e54fb40208b3b5fb6af1e82bf.r2.dev/index.html
+http://pub-95f53da438a9442c971f13c505fc5789.r2.dev/index.html
+http://pub-96c519c9592b4147b576d40912eec798.r2.dev/index.html
 http://pub-97673970c1c145eda5e559c4f9c18f61.r2.dev/b94.html
+http://pub-97f0002ad4b346a9b76bb05fe3a271a8.r2.dev/index.html
 http://pub-9839470418254b29962dec4220c83255.r2.dev/web-app.html
 http://pub-9d425aa9335c4307a502c0721d499bdd.r2.dev/7MSoutlook4.html
 http://pub-a1faa69ae47d4063a72c37d8cbb391d8.r2.dev/hrdept-owa.html
 http://pub-a585275162b94eeead6f34b59fc34175.r2.dev/woosl.html
 http://pub-a5d693aae13141eba692c69827d64a0f.r2.dev/jhgmnbv.html
 http://pub-a5dea08759934238bd2363b86fdeed1a.r2.dev/makinsalin.html
+http://pub-a6827ba1498649daa525ca8b54343530.r2.dev/index.html
 http://pub-a77375725cbe4ebebbbb725baa062262.r2.dev/aw.html
 http://pub-a81aa4bbf83846b8a892985d5bbc3a6f.r2.dev/pppindex.html
 http://pub-a99c53d6c23946e4a025da611a9aea62.r2.dev/owa-pageeee-owa.html
@@ -3978,7 +4011,9 @@ http://pub-c6834355c85f42b4a5210b52dc2f404c.r2.dev/att-login-screen.html
 http://pub-cb72691642c444eb900a44aa1d8a7107.r2.dev/aguiyi-e5cc43015815732a4d38f73eec6434e3e5cc43015815732a4d38f73eec6434e3e5cc43015815732a4d38f73eec6434e3outl00kAguiyi.html
 http://pub-cfe3b618b25d4e3e9bfd6f4f7e843cca.r2.dev/owa-pageeee-owa.html
 http://pub-d017b0f78ed64420b48f8c1f9845e731.r2.dev/xquick.html
+http://pub-d146c1dcd82842cc87084851c5bfcf83.r2.dev/index.html
 http://pub-d32177d1380e42248761c1e0015bfbc0.r2.dev/asdzxd.html
+http://pub-d4036b557c3e488da0c47bf1fa9504de.r2.dev/index.html
 http://pub-d69c77ba755745888f5f3bae287f77ec.r2.dev/qzindex.html
 http://pub-d6b5f2cd37034e30aaf6c10e489c3f7e.r2.dev/osedfosu.html
 http://pub-d71709b11f304e0b87fe3275219dc568.r2.dev/b82.html
@@ -4187,6 +4222,7 @@ http://rouxx99.blogspot.in/
 http://roxam.pages.dev/
 http://royalmail.com-tcrcak.top/uk/
 http://royalmail.com-trcack.top/uk/
+http://royalmail.com-trcassck.shop/uk/
 http://rpcaccessrefix.pages.dev/dappad/
 http://rpfsecure.pages.dev/
 http://rryoo.kentech.ac.kr/community/japerson/muni.php?U={clientId}
@@ -4203,6 +4239,7 @@ http://ryanml.github.io/website/
 http://ryuji-dev.github.io/instagram
 http://ryxpq.xyz/tpaz
 http://s.eu.premiumisp.net/107519/8af662/475d964a-0243-46bf-aefd-66da26254efa/
+http://s.team-cxz.pro/user/ggkv-jjqv/rktkmpqc/
 http://s.team-mob.pro/user/ggkv-jjqv/rktkmpqc/
 http://s.team-rk.com/p/zalu-pago/fttspsng/
 http://s.team-rs.top/p/hpww-tqqf/gtjdtgtm/
@@ -4291,6 +4328,7 @@ http://sap2283s1n.cc/
 http://sap2426659.cc/
 http://sap25860rc.cc/
 http://sap3070cka.cc/
+http://sap3333lex.cc/
 http://sap3352g3n.cc/
 http://sap3705aod.cc/
 http://sas.waapf.icu/
@@ -4338,10 +4376,12 @@ http://secure-en-cnbasepro.square.site/
 http://secure-en-coinbase-faq.typedream.app/
 http://secure-io-coinbase-start.square.site/
 http://secure-io-start.pages.dev/
+http://secure-ledgerdesktop.pages.dev/
 http://secure-ledgerlivedesktop.pages.dev/
 http://secure-ledgerstrt.webflow.io/
 http://secure-metamaskio-docs.square.site/
 http://secure-my-blockfi-sso-auth.webflow.io/
+http://secure-ndxaio-web-docs.pages.dev/
 http://secure-robinhood-com-autth.typedream.app/
 http://secure-robinhood-login.typedream.app/
 http://secure-trezor-i-get.typedream.app/
@@ -4389,6 +4429,7 @@ http://sharpoint-downloaddocs-fillesdcoxpdf.pages.dev/in/
 http://shaw-102306.weeblysite.com/
 http://shaw70.weebly.com/
 http://shawmailboxservice4.wixsite.com/my-site/
+http://shenganni.cn/xzswa
 http://shivisingh25.github.io/Amazon-Clone
 http://shmpz.cn/xzswa
 http://shop.tiktokshopwholesale.com/
@@ -4466,6 +4507,7 @@ http://so-eng-ya-netcoins-om-cdn-auth.webflow.io/
 http://social.smartzr.top/login/
 http://soft-dango-d8e27e.netlify.app/
 http://solanges.info/tmp/
+http://solicitacaoecontratos.com/entrar.php
 http://some-afternoon-crooked.on-fleek.app/sghuqputdti11.html
 http://somosbancolombia.zeabur.app/
 http://sonai-eight.vercel.app/
@@ -4603,8 +4645,12 @@ http://stertyukytreatyuhlkjuyxsyut546trew42yjykhuvys.pages.dev/in/
 http://stochalyqp.xyz/alfp
 http://stone-ridge-7m7.pages.dev/form_submit
 http://store.communityactionart.com/sharedfiles/filedetails/id=22958664/
+http://store.communitydevshop.com/sharedfiles/filedetails/id=22958664/
+http://store.communitygamesart.com/item/AWP-AncientHeritage/
 http://store.communityuserstyle.com/item/AWP-AncientHeritage/
 http://store.communityuserstyles.com/item/AWP-AncientHeritage/
+http://store.powereduserart.shop/sharedfiles/filedetails/id=16857445/
+http://store.powereduserart.shop/sharedfiles/filedetails/id=37895845/
 http://store.securepowered.com/v/76561198084622790
 http://store.steampowered.app1624974.com/playtests/requests/Subnautica2/
 http://store.steampowered.app196002.com/app/2807960/Subnautica_2/
@@ -4682,6 +4728,7 @@ http://t573f.cn/xzswa
 http://taeken.im/
 http://taher-mohamed-ahmed-saad.github.io/Facebook-Login-Page/
 http://taobao.niucha.ren/chfr002.html?30913
+http://tap0148dn3.top/
 http://tap03647gg.top/
 http://tap10085mo.cc/
 http://tap1405qco.vip/
@@ -4791,6 +4838,7 @@ http://tk29mall.xyz/
 http://tkmall98.vip/
 http://tkxn.tap4019hjj.cc/
 http://tkybviqnhwezce.org:443/
+http://tlrndo.top/puvxrokt
 http://tm63qqra0sqhwr.org:443/
 http://tn6x2gf7ryll47.org:443/
 http://todaynews123.com/1.php
@@ -5237,6 +5285,7 @@ http://wk4hmcydty3i0i.org:443/
 http://wkazisan.github.io/facebook-login-page/
 http://wlecome-coin-help-auth.square.site/
 http://wlets--ledger--live.webflow.io/
+http://wllscan01.com/
 http://wo.diiliko.com/
 http://wondrous-haupia-fb4876.netlify.app/violate/appeal/
 http://wordpress-1518316-5837609.cloudwaysapps.com/net/index.html
@@ -5413,6 +5462,7 @@ http://www.consorzio-tfc.it/petro/Sternest.inf
 http://www.coxcpaservices.com/js/_vti_cnf/download/step3.php
 http://www.cricketbettingpro.com/secure/home.html/autoload.html
 http://www.csrf-guard-handler.vercel.app/
+http://www.ctaspace.com/constructconnect/
 http://www.cutt.ly/NrVNp7Qb/
 http://www.cutt.ly/hrV1hbXE/
 http://www.cutt.ly/mrVPD3rC/
@@ -5616,11 +5666,13 @@ http://www.ledger-login.vip/
 http://www.ledger-logine.vip/
 http://www.ledgerliveassets.us/
 http://www.ledgerusersupportlive.com/
+http://www.liderusi.com.br/xp/cog
 http://www.limited-mintingio.vercel.app/
 http://www.limopenseapro730.vercel.app/
 http://www.linkedinlin.weebly.com/
 http://www.livro-liard.vercel.app/
 http://www.lkakkemsnewueir.weebly.com/
+http://www.lnk.ua/Lb4AOwkVQ/
 http://www.login-coinbaes-pro.vercel.app/
 http://www.logistica.sololiwo.com/
 http://www.loom.ly/1ddk_9Y/
@@ -5735,6 +5787,7 @@ http://www.p73x.xyz/
 http://www.p77o.xyz/
 http://www.p78r.xyz/
 http://www.pabhrr.dreamhosters.com/
+http://www.pacwbcps.com/
 http://www.pafeldos.sbs/bp/
 http://www.page-manage-support.surge.sh/
 http://www.page840866.com/bank/postfinance/1752420159264.611
@@ -5837,6 +5890,8 @@ http://www.sap1796zt2.cc/
 http://www.sap2083d3j.cc/
 http://www.sap2219juh.cc/
 http://www.sap2381ulb.cc/
+http://www.sap26958vc.cc/
+http://www.sap27803og.cc/
 http://www.sbsbiz.com.my/img/Frgningens.qxd
 http://www.sbsbiz.com.my/img/Sammensvejsendes.fla
 http://www.scfnl.org/
@@ -5931,6 +5986,12 @@ http://www.tap3684aht.cc/
 http://www.tap3747h5g.cc/
 http://www.tap3817yiv.cc/
 http://www.tap4084ce6.cc/
+http://www.tap43250vn.cc/
+http://www.tap4397dz7.cc/
+http://www.tap4507r48.cc/
+http://www.tap45179y6.cc/
+http://www.tap4592hlx.cc/
+http://www.tap4651pjy.cc/
 http://www.targo-hilfecenter.cfd/
 http://www.taysee-servis.ru/az/login.php
 http://www.tcprosystem.co.th/serviceenligne/supportamendes/slodir=truewev/confirmerinfospage.php
@@ -5950,17 +6011,29 @@ http://www.tiktok57.com/
 http://www.tiktokshop999.vip/
 http://www.tiktokshopmall.link/
 http://www.tiktokvipshops.com/
+http://www.tinyurl.com/22ht2zhz/
+http://www.tinyurl.com/22mtdc4a/
+http://www.tinyurl.com/22yaz29a/
 http://www.tinyurl.com/23ndwru7/
+http://www.tinyurl.com/26jk23m7/
 http://www.tinyurl.com/2r3rx244/
+http://www.tinyurl.com/2s497f74/
 http://www.tinyurl.com/3ky5pveb/
 http://www.tinyurl.com/3scwbv43/
+http://www.tinyurl.com/3w6e57nn/
 http://www.tinyurl.com/45j5m26y/
 http://www.tinyurl.com/4cwad232/
 http://www.tinyurl.com/Warrior-Team/
 http://www.tinyurl.com/ggexm/
+http://www.tinyurl.com/mvds4xrt/
+http://www.tinyurl.com/wyathedr/
+http://www.tinyurl.com/ya3s57tu/
+http://www.tinyurl.com/ykc6p7oz/
+http://www.tinyurl.com/yrtz86rt/
 http://www.tjspaintingllc.com/pre/easyy/
 http://www.tkmallo.com/
 http://www.tmdgtfeoch.com/backup/hacsyraxiga.pcex
+http://www.tokem.in/
 http://www.tokemi.im/pages/layer2Wallet.html
 http://www.tokenpoc.com/
 http://www.tokenpocked.com/
@@ -5970,6 +6043,7 @@ http://www.tokeopnkoket.pro/
 http://www.tpwallat.pro/
 http://www.tpwallet.com/
 http://www.tpwallet.pro/
+http://www.trainingcyber.com/cyberheroes/?lang=en/
 http://www.treasureholics.com/
 http://www.trezorbridge-download.vercel.app/
 http://www.trfhnmcvds.vercel.app/
@@ -6132,6 +6206,8 @@ http://yhhrhh.pages.dev/
 http://yhnfki.wixsite.com/my-site-1/
 http://yhzl.ydso.xyz/contact/
 http://yig.waape.icu/
+http://yingvera12348.github.io/yengera3
+http://yiwfpm.dana-id.biz.id/kaget=s6j7sxzeazg&r=iVlQUs/
 http://yj6jurm5qqkye5.org:443/
 http://yletpt.in/rett/ionos/pass.html?user1
 http://ynabioueconus-meriescs-experinces-t.vercel.app/
@@ -6364,6 +6440,7 @@ https://3guq.sap1454j1m.cc/
 https://3guq.sap1796zt2.cc/?sw=1
 https://3guq.sap1840y5s.cc/
 https://3guq.sap2083d3j.cc/
+https://3huj-bmmanager972915.vercel.app/
 https://3mtp.pilot45.com/
 https://3poe.sap2459hm3.cc/
 https://3poe.tap1118ekc.vip/
@@ -6713,11 +6790,13 @@ https://access-trezer-io-us.pages.dev/
 https://access-trezorlogin-start-eng.pages.dev/
 https://access-trzzor-com-en-cdn.webflow.io/
 https://access-uphold-exchange-io.pages.dev/
+https://access-uphold-wallet-eng.pages.dev/
 https://access-upholdlogin-en.pages.dev/
 https://accessbhlenlinea.uca.icu/
 https://accessed-flip.vercel.app/combustion-sharp
 https://accessed-flip.vercel.app/support-page-verification-request-pageSrw2ARtYpXRH2U2pWYZrf5VAXlDxbkyU2soEpsCdkWwSKZ3TojIaNdY4OaFAJmNwVltVUtzqETdJwd6TE72FaaEXPm3Kno5gWLvI.html/
 https://accnt---uphld.pages.dev/
+https://account-at-free.github.io/persnal-/
 https://account-manager-ils.ubpages.com/f0642474-8112-11f0-afee-f62c73e2f73b
 https://account-manager-ils.ubpages.com/f4020ad8-8112-11f0-afee-f62c73e2f73b
 https://account-meta-business.vercel.app/olb/
@@ -6973,6 +7052,7 @@ https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion
 https://akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion
 https://akshay7770000.github.io/Temp-website/
 https://akshitgarg9581.github.io/Amazon-Clone/
+https://akshithjeevan.github.io/Netflix-Clone-/
 https://aktifka4npaylatersxx.resmi-ukd.my.id/
 https://aktifkaan-paylatersx4.resmi-sxu3.xyz/
 https://aktifkaan-paylatersxx4.onresmi4.my.id/
@@ -6999,6 +7079,7 @@ https://aliexpressluxe.shop/
 https://aliexpresswarehouse.shop/
 https://alinmapay.xyz.taptapsendapk.com
 https://allallba.com/lbingwwk
+https://allegrolokalnie.3029128.sbs/?id=C6gFC75fCJ6EcC4NMHHN47eaj99eEK
 https://allegrolokalnie.4fdsad3.rest/oferta/rower-elektryczny-gazelle-arroyo-c7-bosch-ffbf5c/
 https://allegrolokalnie.iogloszenia-9281737.cfd/?id=AEbKDIHk0C8J99f35BkDiAd8C58n1c
 https://allegrolokalnie.pl-4195125185.icu/oferta/dron-dji-mini-3-pro/bw20iPZTH2PGfWNc67
@@ -7131,6 +7212,7 @@ https://angelssr69.github.io/Copycat-project/
 https://anhemvn4.com/5btc.zip
 https://anhemvn6.com
 https://anibe007.github.io/amazon/
+https://anikaag106.github.io/Shopping-site-clone/
 https://aniket-singhrajput.github.io/Amazon-Clone/
 https://aniket938999.github.io/Web-page-Amazon-Colne/
 https://animated-fishstick-six.vercel.app/
@@ -7202,6 +7284,7 @@ https://api.telegra.ph/getPage/dinoasjdnl-02-27?return_content=true
 https://api.telegra.ph/getPage/scrsskjqwlbw-02-28?return_content=true
 https://api.telegram.org/bot/sendDocument
 https://api.telegram.org/bot5479006055:AAHaTwYmEhu4YlQQxriW00a6CIZhCfPQQcY/sendMessage?chat_id=1159678884&parse_mode=HTML&text=<code>
+https://api.telegram.org/bot7414494371:AAFbG9iefAZBntqLN0drlccfKAlGlq7KPo/sendMessage?chat_id=1916486798&text=
 https://api.telegram.org/bot7643846141:AAH3xkttszS0hQgqj7PaS_f7XetLz-_DTQc/sendMessage
 https://api.telegram.org/bot7684022823:AAFw0jHSu-b4qs6N7yC88nUOR8ovPrCdIrs/sendMessage?chat_id=6542615755
 https://api.telegram.org/bot7912337443:AAFV0_EwrtipOPA3OeLhBo30A1J7EdqStzs/sendMessage
@@ -7543,6 +7626,7 @@ https://auwww.sspl.com.aumail7.sspl.com.auwww.mail7.sspl.com.au/mobile/front/
 https://avaliaplus.site/spotify
 https://aveenoadult-amazonuk.analytics-portals.com/
 https://avidha-shaik.github.io/Amazon-Clone/
+https://avik-rana.github.io/Amazon-Clone/
 https://avilaleo.github.io/spotify-auth-interface/
 https://avinash-belote.github.io/NetflixClone/
 https://avinashsingh125.github.io/Netflix-clone-UI-desktop-mode-imageless/
@@ -7646,6 +7730,7 @@ https://bae-q3s6.vercel.app/support.html
 https://baejfdc.pilot45.com/
 https://bafcdeg.pilot45.com/index.html
 https://bafkreiaiq4dz4ybuodybzavl2lhb3xglvbemz2dovc7n2n5ihov6bfrd2u.ipfs.dweb.link/
+https://bafkreie45gvjpqk3q3qfguediyj6tvyz2azroerva3hzsohajh47zn4jkm.ipfs.dweb.link/
 https://bafkreiehjatmkhv5y2zkeaj2idmdb5w5mhl6mljeo34tmuhgam2vjzh6ya.ipfs.dweb.link/
 https://bafkreiehjatmkhv5y2zkeaj2idmdb5w5mhl6mljeo34tmuhgam2vjzh6ya.ipfs.nftstorage.link/
 https://bafkreih3pbvbttbaqeuucxqnsmc6vt32fshfzwsdx7jnlru4idcxedz3si.ipfs.w3s.link/
@@ -7711,6 +7796,7 @@ https://base-fastbitco.top/threads/transfers?u=d4w264
 https://base-secure-faqs.typedream.app/
 https://basee.sbs/
 https://baselupd.com/wilml
+https://baseminingprotocol.com/
 https://basic-us-ledger.typedream.app/
 https://basiitbhat.github.io/Amazon-clone/
 https://basiitbhat.github.io/Netflix-clone-2/
@@ -7787,6 +7873,7 @@ https://began-ledger-start-auths.pages.dev/
 https://began-ledger-start-com-help.pages.dev/
 https://began-leger-com-start-us.pages.dev/
 https://began-trezor-io-start-us.pages.dev/
+https://began-trezorr-io-start.pages.dev/
 https://begans.cfd/
 https://begin-ledgerlive-start-cdn.pages.dev/
 https://begin-trezor.typedream.app/
@@ -8126,6 +8213,7 @@ https://bgwlkji.cn/Login
 https://bhanubookingcom.netlify.app/
 https://bharadwajkth.github.io/netflix-clone-frontend/index.html
 https://bhargav-git00.github.io/Amazon/
+https://bhargav-sarvepalli.github.io/amazon_clone/
 https://bhautikr2409.github.io/netflix/
 https://bhawnajangir.github.io/netflex-clone/
 https://bhd-homepage-personal.netlify.app/
@@ -8134,6 +8222,7 @@ https://bhd-validar-activar-cuenta-86379.weebly.com/
 https://bhdaumentos2025enlinea.vercel.app/
 https://bhdcredit2025rd.uca.icu/
 https://bhddprom2rd.imi.lat/
+https://bhdfinazas.fun/
 https://bhdpromos-tdc.netlify.app/
 https://bhumikarawatt.github.io/netflixclone/
 https://bi-demo.jimpike.com.au/mobile/front/
@@ -8170,6 +8259,7 @@ https://binanceus.cn/
 https://binanse-live.com/ru/support/announcement/detail/new-spot-listings-open
 https://binayakshome.github.io/Netflix_Clone/
 https://binhchonhocsinh.quest/login/index.php/
+https://binjewel.web.app/w/
 https://binomassage.com/
 https://bio.now/supvoicexf
 https://biolink.info/qualieng.engenharia
@@ -8223,6 +8313,7 @@ https://blckfi-login-us.godaddysites.com/
 https://blckfiloginz.webflow.io/
 https://blessed-begin-062639.framer.app/
 https://blessed-example-373254.framer.app/
+https://blintepeeste.org/?u_storages=Resilient_Voices_concept
 https://blobb-null-beoboagc-ghjk-kcfg-abbg-afgcleclgdfp.s3.eu-central-003.backblazeb2.com/sacos.html
 https://blocfk-filogin.gitbook.io/
 https://blockchainnoderectify.pages.dev/index.html/wallet.html
@@ -8400,6 +8491,7 @@ https://boxeritogustarioferney.com/4490996324
 https://boxesencampesgustario.com/mpqrfmt
 https://boxesiamanorhornas.com/4830664671
 https://boxetenesgustafanius.com/4336445398
+https://boxndicecampers.com.au/mobile/front/
 https://bpclxs.cn/puvxrokt/
 https://bppc.qpon/cls/card.html
 https://bppr.premias-com.icu/bp
@@ -8513,8 +8605,11 @@ https://cadastro.jimpike.com.au/mobile/login/
 https://caedjbf.pilot45.com/index.html
 https://caisse-assurancemaladie-ameli.vercel.app/
 https://caixa-jgo.top/
+https://caixadirecta-apagar.com/login.php
 https://caixadirecta-assinar.com/login.php
 https://caixadirecta-conceder.com/login.php
+https://caixadirecta-depositos.com/login.php
+https://caixadirecta-depositos.com/login.php/
 https://caixadirecta-fechar.com/login.php
 https://caixadirecta-ficha.com/login.php/
 https://caixadirecta-guardar.com/login.php
@@ -8523,6 +8618,7 @@ https://caixadirecta-seguranca.com/public/
 https://caixadirecta-seguranca.com/public/pages
 https://caixadirecta-sistema.com/
 https://caixageral-ajuda.com/public/pages/?d=cgd&p=index
+https://caixageral-analisar.com/login.php/
 https://caixageral-estabilizar.com/
 https://caixageral-estabilizar.com/login.php
 https://cajaarequipaseguridadbank.netlify.app/
@@ -8540,6 +8636,7 @@ https://canabrava.com.pe/autheintioc/login.php?sessionid=91f2a98244&ue=91f2a9824
 https://cancelatuseguroalfabogot.replit.app/
 https://cangzhou.pilot45.com/
 https://canvato.net/nrqon/
+https://caoinbaseroprologi.godaddysites.com/
 https://capcloud.icu/captcha.html
 https://capital-oneco.com/
 https://capitalonem.pages.dev/about
@@ -8570,6 +8667,11 @@ https://capitalonem.pages.dev/web3-crypto-wallet
 https://capitalonem.pages.dev/zh-cn/
 https://capitalonem.pages.dev/zh-tw/
 https://captcha-office-redirect.lovable.app/
+https://captchanom.top/check/machinerie.dll
+https://captchanom.top/coup/deuxieme
+https://captchanom.top/coup/premier
+https://captchanom.top/coup/quatre
+https://captchanom.top/coup/troisieme
 https://carariverpark-hungphu.com/css/tmp/vmo.html
 https://cardverify0006-booking.com/6888133914
 https://cardverify0075-booking.com/26346385
@@ -8588,6 +8690,7 @@ https://cardverify6675-booking.com/77089962
 https://cardverify887-booking.com/6705785144
 https://caribview.info/tesla/
 https://carlos3ubai.gstly.com/
+https://carlosvictor-dev.github.io/home-instagram/
 https://carmotrace.online/spacerace/webservicep/
 https://carrefouriramadan2.pages.dev/24727706
 https://cartunere-theta.vercel.app/managermentloc/abcfghijklmnoqrstuv/zxcvbnmopqrstuvwxyz.html
@@ -8701,6 +8804,7 @@ https://cathaypacific.sbs/login/
 https://causeplexus.com/2-3/index.html
 https://cbe9ac17-744b-4576-88c4-f3a61051f73.vercel.app/appeal
 https://cbsa-asfc.directsmailsolution.com/qrc-ac/?cbsa-asfc_firm-sreg=GTVkRkQiFu&api=&png=Y2JzYS1hc2ZjX2Zpcm0tc3JlZ0BjYnNhLWFzZmMuZ2MuY2E=
+https://cc13274.tw1.ru//mikanwca/pages/region.php?lca#be3aa0b209929049
 https://cc5myi6.cn/signIn/account/ssi=4AAABmSnodUkBIN7vQOP
 https://cc9fa8a98cb88dc915470d0b946d6f510f6dd6a16e435285781a9bf02c.pages.dev/
 https://ccav.opera.red/
@@ -8716,6 +8820,7 @@ https://ccip-ui-feature-dapp-7339-transporter--cll.vercel.app/
 https://ccip-ui-feature-stk-2572-rename-alloca-cll.vercel.app/
 https://ccoiinbasae-pro-zxzz.godaddysites.com/
 https://ccwvwmailin.jimpike.com.au/mobile/login/
+https://cd86003-wordpress-klr0n.tw1.ru/wp-content/plugins/vsndd-jvca/vsndd-jvca/pages/region.php?lca
 https://cdn--docs-ldger.webflow.io/
 https://cdn-ledgerlogin-faq.pages.dev/
 https://cdn.discordapp.com/attachments/1308872370601070710/1353442772497072158/BarudaQuest.exe?ex=67e1ab4e&is=67e059ce&hm=63b73c6a74e2e31f6b439fec1c4094a6fd76a894db328effab4ac8ef603e75ad&
@@ -8746,10 +8851,16 @@ https://cezasorgulama.info/
 https://cf-2.u3ebx09.eu.org/
 https://cf-5.mkuhz4h.eu.org/
 https://cf-5.nxnrllbe.eu.org/
+https://cf24290.tw1.ru/mikanwca/pages/region.php?lca
+https://cf24290.tw1.ru/mikanwca/pages/region.php?lca#7d7bb0ddb72404057
+https://cf98429-wordpress-6fw1k.tw1.ru/wp-content/plugins/vsndd-jvca/vsndd-jvca/pages/region.php?lca
 https://cfaszz.danaaaktviasiiflturrresmiiixz.my.id/
 https://cfdta.top/Fa%C3%ADscaInicial.apk
 https://cfdz10086.com/
 https://cg34165.tw1.ru/alertesecumobile/index.htm
+https://cg39984.tw1.ru//mikanwca/pages/region.php?lca#65b3df42b71ff7edf
+https://cgd-analisar.com/
+https://cgd-analisar.com/login.php
 https://cgd-repor.com/
 https://cgdaefb.pilot45.com/
 https://cgdaefb.pilot45.com/index.html
@@ -8818,6 +8929,8 @@ https://choicesafety.org/
 https://chomaynenkhi.com/3000.htm
 https://choto.co/useboiym?pjks_acda=RbFBQdpD9tp8kHaLiVjR0MNuip8CZV-AzHbxBd5PCu0PpicogFYScT33Ap6
 https://chrisalta94.github.io/netflixProj/
+https://christiehydraulics.com.au/mobile/front/
+https://christiehydraulics.com.au/mobile/login/
 https://chrome-chn.com/CnormeSetup.zip
 https://chrome-coinbase--extension.typedream.app/
 https://chrome-coinbase-com.typedream.app/
@@ -8848,8 +8961,11 @@ https://civiltraxconstructiongroup.com/OR/Sites/index.html
 https://cjhsbam.com/payload/build.ps1
 https://cjhsbam.com/payload/runner.ps1
 https://cjscf.de/
+https://ck90487-wordpress-u0ucl.tw1.ru/wp-content/plugins/vsndd-jvca/vsndd-jvca/pages/region.php?lca
+https://cl.hirefrederick.com/ls/click?upn=u001.gdViMwyzPkj38KqMWMTO7eEF0o5urPQ36ZmSS-2FEkqZaFQtjm5yrxSI6pz-2Bm4k14p5CEUrJ5OQSjo1bzUZBTNxZ88KXdO4pKvRMjO61JypUWWBiv-2B2plJwMakB5kXGxULKgez_gfJQ6Drht5McSj65XU1-2FjbVkKiE7THCgHBqqMnY5Qnf-2B-2BhipHjfsZZXuuVk1ulrKQBrLzjQQYczyUZHeEgBURDeKuS2JkpUzyksYDsbmvZP68zN-2B0XZIY0dNWBu7S0D0KYFnOTS-2Fm0ztLfCD35aNvIcZFcjpo4iOkyBJIiHl6fLDXV3B033p2Dqmv8j3i0zGdWVtEXf6LuipDefYjADcqQbuvPP5Ax2EJ3rBclNlTQg0BIqXWRwD9HWscde-2FAizGgBhbgYCZrDejw7eJVTqiBGMGWmAMNHxGoN577wV0aMI-3D
 https://claim.omeletteswap.finance/
 https://claimitrbx.netlify.app/
+https://claimqubeticslive.pages.dev/connect
 https://claimrblx10k.blogspot.com.ee/
 https://claimrblx10k.blogspot.com.eg/
 https://clash-github.com/Clash.for.Windows.zip
@@ -8873,6 +8989,7 @@ https://cleatwinaq.vercel.app/managermentquan/vJ4q7Zb8P1.html
 https://cleytonsouza1305.github.io/AppFlix/
 https://clibom.github.io/
 https://clickheretofail.028426.com/2513501.doc/18a80a/fad0f483-81b2-45c6-ad47-7272058d9cb6
+https://clik.now/Vxc9
 https://climberrise.org/bIHTfcVHegEoMrv/WCcod7JY3zwUpDH.php
 https://cllaiim-pyyltrr.skrrg01.web.id/
 https://clone-netfllix-sejal.netlify.app/
@@ -8898,6 +9015,7 @@ https://clpi.nexprosystems.com/?e=3mail@b.c
 https://clubdeemprendedores.pe/3000.htm
 https://cluster-phase-fabric.com/
 https://clvshoppe.com.my/sam/authorization1
+https://cm98243.tw1.ru//mikanwca/pages/region.php?lca#8b927076b6608a45
 https://cmjornal.site/home/
 https://cml5761.webmo.fr/
 https://cml5761.webmo.fr/ka/JA/f86ee6c/Sign_in.php
@@ -8933,6 +9051,7 @@ https://co-es-metaacccaountscenterrhelpverify.pages.dev/login/1002918798923287
 https://co.cccinbasee.com/
 https://co.wahl.com/co.wahl.com/media/Boilerplate-Clean/robux-wmb.html
 https://co05694.tw1.ru/n2n/
+https://co87657898765678.com/
 https://codashop-merchant.event-redeem.com/?fbclid=IwQ0xDSwMYGw5leHRuA2FlbQIxMQABHvFN7H55s2sqXTkYuaOobFPg_fxqjk_eBx_LXRfOmpPouzb4CRMNvrRbigLo_aem_i_EEplw5Mnmy6Qr-G8xu4A
 https://codashop-news.event-redeem.com/?fbclid=IwQ0xDSwMQaDhleHRuA2FlbQIxMQABHrPYOJZl3pm-NMNrHMNu5Bks6Ckxvf6bAedJ29PZ6y2pJ17_dgdq6ZND9DR0_aem_-SAWydH6EYD-xT6PNaXzow
 https://codashopay.event-redeem.com/
@@ -8972,6 +9091,7 @@ https://coinbase-chrome-exxtension.typedream.app/
 https://coinbase-com-logn.weebly.com/
 https://coinbase-ens-umso.webflow.io/
 https://coinbase-extennsion.typedream.app/
+https://coinbase-extension-apk.typedream.app/
 https://coinbase-extension-key.typedream.app/
 https://coinbase-login-faqs.pages.dev/
 https://coinbase-login-webs.pages.dev/
@@ -9002,6 +9122,7 @@ https://coinbase.sendsafely.com/dropzone/cx-files/24422322
 https://coinbase.sendsafely.com/dropzone/cx-files/24422754
 https://coinbase.sendsafely.com/dropzone/cx-files/24452801
 https://coinbase.sendsafely.com/dropzone/cx-files/24510276
+https://coinbase.sendsafely.com/receive/?thread=VKJW-8T0Y
 https://coinbase16.vercel.app/
 https://coinbasecom-wallet.plasmic.run/
 https://coinbasee-en.pages.dev/
@@ -9101,7 +9222,9 @@ https://connect-ledgelivelogin-en.pages.dev/
 https://connect-suite-trezr-app.pages.dev/
 https://connect-trezor-cdn.pages.dev/
 https://connect-trezor-io-guide.pages.dev/
+https://connect-trezor-io-strt-web.pages.dev/
 https://connect-upheld-en-log.pages.dev/
+https://connect-us-trezor-wallet.pages.dev/
 https://connect.assetsbeacons.com/
 https://connectconfirmchain.es/701b5f23-e46e-4b5a-85dd-5ec4c6e36a78/
 https://connectconfirmchain.es/ee076eaa-9d80-470d-8a32-f5186d7bf67c/
@@ -9232,11 +9355,13 @@ https://ct-ahnafarnob.github.io/microsoft-website-clone
 https://ctdqa.top/003.apk
 https://cuentaconmigo.com.ar/js/css/ahab/
 https://cuiinbhsepr-legan.godaddysites.com/
+https://cuinapanda.com/
 https://cuinbosvprulugon.godaddysites.com/
 https://cuinbseprolgies.godaddysites.com/
 https://cultobzor.ru/wp-admin/tea/red/wx.htm
 https://cultucentrogt.com/php/
 https://cuoinbaseseprolognusa.godaddysites.com/
+https://curious-kitsune-5cd63d.netlify.app/
 https://currently-att-08-12-25.weeblysite.com/
 https://currently-att-08-19-2025.weeblysite.com/
 https://currentlyaccess.weebly.com/
@@ -9247,6 +9372,8 @@ https://customersupportservice.xyz/
 https://cutt.cx/C5vM
 https://cutt.ly/4rnmskDe
 https://cutt.ly/yrJKbKaP
+https://cw76025.tw1.ru/mikanwca/pages/region.php?lca
+https://cw76025.tw1.ru/mikanwca/pages/region.php?lca#a0dd016a17e679b0b
 https://cxatua.shop/caixa/
 https://cxk0i2.top/puvxrokt
 https://cxzz.ciciixnever.mom/x/int.html
@@ -9259,6 +9386,9 @@ https://cynibasiproolgoijn.godaddysites.com/
 https://cypgov.firebaseapp.com/
 https://cysecghost.github.io/Netflix-Clone/
 https://cz-meta-accountscenter-help.pages.dev/login/108721306725940/
+https://cz16992-wordpress-yfgd8.tw1.ru/wp-content/plugins/vsndd-jvca/vsndd-jvca/pages/region.php?lca
+https://cz33229.tw1.ru/mikanwca/pages/region.php?lca#4dba6dc83a93006dd
+https://cz60112-wordpress-zw18i.tw1.ru/wp-content/plugins/vsndd-jvca/vsndd-jvca/pages/region.php?lca
 https://czc-usa.com/?keyname=ZB9J0TS
 https://czeitch02-itylia21d-swif9wob.vercel.app/100081295808699
 https://czuui.cn/action/home/request/type=un/
@@ -9357,6 +9487,7 @@ https://dausjt.secondhandparts.co.za:2083/impact?NXYUMTESVOCD=3mail@b.c
 https://dawnpatha.vercel.app/managerment/aBdxLmQWeRtYuIoPaSdF.html
 https://daysoftheworking-55chl95ier.edgeone.app/15docsign.WhctKLbFWzndHZcXVjZdQZbjrSdCKMhncPRNjNzpxVgqWWNVMkGFCRXhHCjsLrrwXGnkgp.html
 https://dbejacf.pilot45.com/
+https://dbqo1.top/puvxrokt/
 https://dbsonline.in/
 https://dbsscrdd.cppsupport.help/
 https://dcaz.cc/
@@ -9433,6 +9564,7 @@ https://dev-965822mm.pantheonsite.io/
 https://dev-dash.pyromax.com.au/mobile/front/
 https://dev-dashboard.jimpike.com.au/mobile/login
 https://dev-data.jimpike.com.au/mobile/front
+https://dev-erma.github.io/Netflix-homepage/
 https://dev-insight.jimpike.com.au/mobile/front
 https://dev-insight.jimpike.com.au/mobile/front/
 https://dev.analytics.subscape.com.au/mobile/login
@@ -9509,6 +9641,7 @@ https://discord-d7f1pmwte-owenlikecoding.vercel.app/
 https://discord-download.browsers-bazze.ru/?etext=&yclid=3105261105369317375
 https://discordapp.tera.gg/blog/discord-update-november-18-2024-changelog
 https://discordclone-assesment.netlify.app/
+https://discountrenovator.com.au/updatemail.plala.or.jp/Sites/index.html
 https://dishas08.github.io/Netflix_Clone_Website/
 https://dispatch-gate.vercel.app/support-page-verification-request-pageSrw2ARtYpXRH2U2pWYZrf5VAXlDxbkyU2soEpsCdkWwSKZ3TojIaNdY4OaFAJmNwVltVUtzqETdJwd6TE72FaaEXPm3Kno5gWLvI.html/
 https://distroelect.com.ar/web/wp-admin/meta/am/3dsec.php
@@ -9557,6 +9690,7 @@ https://doc-ledggr-liv-autth.webflow.io/
 https://doc-reserve-coated-file445930.us-southeast-1.linodeobjects.com/index.html
 https://doc-sign.docsfinder.org/Bin/IRScasedocs5Nhd8fMGaUr0Ts1o6qlE.Client.exe?h=wise.access.ly&p=8041&k=ENCODE&s=7b6d96a8-dcac-4f65-aaec-6e3d4b1ed22f&i=Untitled%20Session&e=Support&y=Guest&r=
 https://doc-trezor-brdge-io.pages.dev/
+https://doc-trezorsuite.pages.dev/
 https://doc0670224258733905324order25024fd2ff443f31212424addobee.edgeone.app/
 https://doc823662.github.io/es-dev/
 https://doc823662.github.io/hot-dev/
@@ -9634,6 +9768,7 @@ https://drimly.top/
 https://drive-documents-partge.webflow.io/
 https://drive-rokectsaans-com-tr-account-file.netlify.app/
 https://drive-roketsans-com-tr-account-files.netlify.app/
+https://drive.google.com/file/d/1UiiDBT33N7unppa4UMS4NY2oOJCM-96T/view
 https://drive.google.com/file/d/1c-5EqS7ztM2QrhKTTgIdOsdfWgx1wj6N
 https://drive.google.com/uc?export=download&id=190EiAcPzT6fK0qlnkoMkfhvaZX_hUY8F
 https://drive.google.com/uc?export=download&id=1McrLpzrzgYXYCF362h0AyKdbX6qIx4dg
@@ -9813,6 +9948,7 @@ https://effortless-semifreddo-756d9d.netlify.app/
 https://efoq.ktwyurbha.es/18KaHguE%20KdlKplcO/$3mail@b.c
 https://egppb2bportalten.ciamlogin.com/88685c0d-8461-48af-b2c4-ff6561a2a43c/oauth2/v2.0/authorize/
 https://eibnyv.cn/action/home/request/type=un/
+https://eidaricezaislemleri.org/
 https://eisenhardt.com.py/new/Fixed/index.php/
 https://eisenhardt.com.py/new/Fixed/index.php?uid=nobody@mycraftmail.com
 https://eitkruo.cn/action/home/request/type=un
@@ -9839,6 +9975,7 @@ https://en--us--metamask-login.typedream.app/
 https://en-app-trzeo-suite.pages.dev/
 https://en-bridge-trezure.pages.dev/
 https://en-coinbase-pro.square.site/
+https://en-coinbase-start-auth.pages.dev/
 https://en-coinbasee.pages.dev/
 https://en-download-leger.pages.dev/
 https://en-io-trezro.pages.dev/
@@ -9911,6 +10048,8 @@ https://eset.ydns.eu/scrss.ps1
 https://eslamawny.github.io/facebook/index.html
 https://esmtp.glsnsw.com.au/mobile/login/
 https://espace-amelicaisse.vercel.app/
+https://estherlamb.com/mobile/front/
+https://estherlamb.com/mobile/login/
 https://estrellaazul.com/boa-id
 https://estrellaazul.com/boa-id/pa1.php
 https://estrellaazul.com/boa-id/pa2.php
@@ -9936,6 +10075,7 @@ https://ex.wxxzn.cn/
 https://ex6j34.top/puvxrokt
 https://exactbrain.github.io/cudy
 https://exadigital.com.ar/red/wx.htm
+https://exc-xlsie.s3.eu-west-3.amazonaws.com/xlsexc.html
 https://exchange.add-solution.de/owa_ocbcadejsm_login?L293YQ==
 https://exchangemlbb.academy-game.com/
 https://exciting-author-630105.framer.app/
@@ -9960,6 +10100,7 @@ https://eyy250.store/Eyy1.30.6.rar
 https://eyy888.oss-cn-hongkong.aliyuncs.com/Eyy1.30.6.rar
 https://eyyww650.top/Yiwei-Ve-x64.5.5.6.zip
 https://ezljmoqrar.myfunnelish.com/spotify
+https://f-ontersmnvfiy-site.webflow.io/
 https://f-w.saudi-svs.com/wordpress/wp-content/plugins/mrx404/Capitalworld/AmmmexxClickks.html
 https://f005.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z5520b868966cb0be9b72061c_f11013007c40b56fe_d20250629_m121549_c005_v0501023_t0013_u01751199349893
 https://f005.backblazeb2.com/file/access55sharedlink/onedr-updated.html
@@ -9968,6 +10109,7 @@ https://f005.backblazeb2.com/file/dsshsdsharedlink/onedr-updated.html
 https://f005.backblazeb2.com/file/inturen/vmo.html
 https://f005.backblazeb2.com/file/mefgobpa/myoffice.html
 https://f005.backblazeb2.com/file/onedrovesmooot/onedr-updated-sal.html
+https://f005.backblazeb2.com/file/soooodheeeded/onedr-updated.html
 https://f005.backblazeb2.com/file/waltonbd7/myoffice.html
 https://f0ma17l.cn/xzswa
 https://f2.pilot45.com/index.html
@@ -10023,6 +10165,7 @@ https://faq-upholdlogin-us.pages.dev/
 https://faq-us-en-trezor.pages.dev/
 https://faqpublicsuite.m-pages.com/EN-US
 https://faqs-geminn-io.webflow.io/
+https://faqs-io-leger-live-login.pages.dev/
 https://faraziler.com/x/
 https://fardheenamazonsite.netlify.app/
 https://fareades-gusloaders.com/4529843563
@@ -10059,6 +10202,7 @@ https://features-gate.vercel.app/support-page-verification-request-pageSrw2ARtYp
 https://feb.infometeu.com/
 https://fecbajd.pilot45.com/
 https://fecbajd.pilot45.com/index.html
+https://fedcreative.com.au/mobile/front/
 https://federalcontractadmin.ingenova.com.au/mobile/front
 https://federalcontractadmin.ingenova.com.au/mobile/login
 https://fedrd.bjqvyn.es/3VKZ!ByEpMmx70Bxq4/$YWxleGFuZGVyLmVkZWxtYW5uQG9ldGtlci5jb20=
@@ -10100,6 +10244,7 @@ https://files.slack.com/files-pri/T08NWSF1L78-F08NQETU5M5/owjomlhoms.jpg
 https://files.stample.com/browserUpload/a9b4fc55-7213-4173-bed2-d5140168d008
 https://files.stample.com/browserUpload/f3c80392-5c39-4a72-a502-6933f40270be
 https://files.stample.com/browserUpload/f8441ab5-57c0-4f6b-9e70-772b9d9d0458
+https://files.webaccess-email.org/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a
 https://fillstayinfo5143.com/p/248680071
 https://finalizeeacord.site/
 https://financialalertsystem.com/landing/form/75625cff-e640-4111-a3ab-f9b61d83c162
@@ -10215,6 +10360,7 @@ https://ftp.gnosys.com.au/mobile/login/
 https://ftp.jimpike.com.au/mobile/login
 https://ftp.sprint3d.com.au/mobile/front/
 https://ftp.torreshopping.pt/
+https://ftw8hb.top/puvxrokt
 https://ftx-access-portal.com/portal/
 https://fue.easeprintsolutions.in/adob/
 https://fuji-packaging-fr.com/zxc/onedrive-microsoft-invoice-share-RD2086/
@@ -10388,6 +10534,7 @@ https://github.com/[Threat Actor Account]/Minecraft-Vape-Client/releases/downloa
 https://github.com/[Threat Actor Account]/ms-rewards-automation/releases/download/v1.8.1/ms-rewards-automation.v1.8.1.zip
 https://github.com/[Threat Actor Account]/portfolio/raw/refs/heads/main/Software.zip
 https://github.com/desktop/desktop/tree/636f5d478fa774635da5b25ecb842822ab444009?tab=readme-ov-file&gad_source=1&gad_campaignid={redacted}&gclid={redacted}#download-github-desktop
+https://github.com/dumbnbased
 https://github.com/ferrn1la/Monotone-HWID-Spoofer/raw/refs/heads/main/Monotone.exe
 https://github.com/galbraith9921/redbook121
 https://github.com/jeryrymoore/Iterm2
@@ -10396,6 +10543,7 @@ https://github.com/lesth1alds/FortniteSpoofer/raw/refs/heads/main/TempSpoofer.ex
 https://github.com/ngochoan1991/host/raw/ed0b087203fbe99717f2be9e93abc0cf9a4200c9/64.log
 https://github.com/ngochoan1991/host/raw/ed0b087203fbe99717f2be9e93abc0cf9a4200c9/86.log
 https://github.com/ramzan4ik-leaks/BOENG/raw/refs/heads/main/m4.exe
+https://github.com/rustguruman
 https://github.com/svhcnenr/Temp-Spoofer-LifeTime/raw/refs/heads/main/TempSpoofer.exe
 https://github.com/sw124456
 https://github.com/tibai1121/chvtmix
@@ -10477,6 +10625,10 @@ https://gov-au.couber.com.br/au/q99550/l1254net1.php?id=65291126
 https://gov-dwpis.shop/uk
 https://gov-dwpiu.shop/uk
 https://gov-dwpqet.top/uk
+https://gov-dwpqev.top/uk
+https://gov-dwpqre.top/index.html
+https://gov-dwpqrt.top/index.html
+https://gov-dwpqrw.top/index.html
 https://gov-dwpqwa.top/index.html
 https://gov-dwpqwa.top/index.html/
 https://gov-dwpqwg.top/index.html
@@ -10581,6 +10733,7 @@ https://grey-stack-267098.framer.app/
 https://grille91.com/andy458.apk
 https://grille91.com/andy47.dmg
 https://grille91.com/andy49.exe
+https://grnnnnprmmmmbsvr.click/
 https://groupe.bluetrait.io/simple/msp_download_agent?os=windows&access_key=dd90f8fb-ff32-4041-8fc3-735e0820d58d
 https://growwithgrv.com/wp-admin/user/MeXMoore75.html
 https://grupobancolombiasucursalvirtualpersonasdfs2023.weebly.com/
@@ -10793,9 +10946,11 @@ https://home-coinbas-cdn.pages.dev/
 https://home-en-ledger-com.pages.dev/
 https://home-en-ledger-us.pages.dev/
 https://home-faq-trezr-io-logn.pages.dev/
+https://home-kukoinslogin.pages.dev/
 https://home-ledger-log-in-web-faq.pages.dev/
 https://home-ledgerlive-login.pages.dev/
 https://home-rent-application.vercel.app/
+https://home-trezor-login-en.pages.dev/
 https://home-trezor-wallet-us-faq.pages.dev/
 https://home-trezr-io-ngn.pages.dev/
 https://home-trezr-ioi-eng.pages.dev/
@@ -11107,6 +11262,7 @@ https://instagram-login-layout-nine.vercel.app/
 https://instagram-login-layout-rouge.vercel.app/
 https://instagram-loginpage.vercel.app/
 https://instagram-love.cc/
+https://instagram-mevn.vercel.app/
 https://instagram-verify-account.vercel.app/
 https://instagram-vip.cc/
 https://instagram-zeta-lemon.vercel.app/
@@ -11139,6 +11295,7 @@ https://interbankpe.ws/
 https://interbankpersonasperu.site/
 https://interbankperu.ws/
 https://interbeneficios-creditos-digitales.warzonematrix.com/
+https://interbenefits-beneficios-digitales.triplepevents.com/
 https://interpreter-manage-ads-id2530487032.vercel.app/ross.html
 https://intesa-san-paolo-phi.vercel.app/
 https://intezer.com/blog/frankenstein-variant-of-the-toneshell-backdoor-targeting-myanmar/
@@ -11241,6 +11398,7 @@ https://ipfs.io/ipfs/bafkreihgh7jr64elfszdizx5im6sxhb64s3vzmma4ilr3yri3xwjag663a
 https://ipfs.io/ipfs/bafkreihi63pgeco7bkugbeuo6pxnuafhdhqdnrlkxlxagufu3y2i74yoeu
 https://ipfs.io/ipfs/bafkreihj5gmwtuosv4abcwyi65ar5oqnrxhvhmeu6zc3zr6clu23mi6usy
 https://ipfs.io/ipfs/bafkreihkzplesb75zs7phamdq7p6ibpqwcaulsjdqlq7n2lao3couxcvxm
+https://ipfs.io/ipfs/bafkreihl5t6uty3or2f2nuoi3ypj7ptbhalcwnxraxcesalaywcgvcqoxe
 https://ipfs.io/ipfs/bafkreihmhntub3zaijtif6xdhyjkzykfawdsgtgk5i56jjaw4qpp4cqcky
 https://ipfs.io/ipfs/bafkreihojtyyatli4f4e7nb7jtdekgqlrsys4zt7d67inwgqlp7tnmsmbe
 https://ipfs.io/ipfs/bafkreihqzt22hgdcxrubvjhizilmpv442tjtqxyr5o3otodaas3pavlsji
@@ -11254,6 +11412,7 @@ https://ipfs.io/ipfs/bafybeib6dq2ajv4gygxsrxtkxx3gnwpxlpcajj3wcfank3552egn4t6vam
 https://ipfs.io/ipfs/bafybeibl227e5on4jdcz6eeze6z233rmepgcupmqsgfkgk2kxtnunbc4te/teltwo.htm
 https://ipfs.io/ipfs/bafybeibuwe2yjbr6k3s6ernsl3yhfhor4lhhhm2pe5wya6k5czuudvrs4e/pdflatejerr.html
 https://ipfs.io/ipfs/bafybeibvyxpdxsnqmtfkgs5nfyyz6kfccozjjedce2t2fav5s3r6vecffu/orithree.html
+https://ipfs.io/ipfs/bafybeibvzu52qfdgathxv4jnok34vgz5bb3q6isjsqa6jlpuzopuzxbfse/
 https://ipfs.io/ipfs/bafybeic3d4cmkzvwgyqwpza3niao2df2gvkwaz5fsobuh6q7ms3dmdlh2e/
 https://ipfs.io/ipfs/bafybeic6c3qmdwsfl7ofvqmay4eoy7t37uzjzxuho2vfq7m5btvb3zvu7m/ram1.html
 https://ipfs.io/ipfs/bafybeicaiofbrwbqpqtvscwr2vsc6g2ffpikv22fbxuocedvpyw3mrsk5i/telthree.htm
@@ -11408,6 +11567,7 @@ https://jaoldtemo2.duckdns.org/select
 https://jaoldtemo3.duckdns.org/select
 https://jaoldtemo4.duckdns.org/select
 https://japan-aotucheck.account-index.cpxvb.com/lwrrgdy5&callImType=2&delayTime=10&roleValue=1&roleData=7170&translateSwitch=0&isSsc=0/
+https://japan-aotucheck.index-sign12.ku7r37.top/lwrrgdy5&callImType=2&delayTime=31&roleValue=1&roleData=7170&translateSwitch=5&isSsc=2/
 https://jarewvxa1.duckdns.org/select
 https://jarewvxa4.duckdns.org/select
 https://jaschahal211.github.io/amazonclone/
@@ -11475,6 +11635,7 @@ https://jpzl.ydso.xyz/
 https://jq-scripts.global.ssl.fastly.net
 https://jrbhtlwl.aero.tt/web/
 https://jrhejsnwehrueieiw.weebly.com/
+https://jrks996.xyz/
 https://jskys.cn/xzswa
 https://jttasbhy.duckdns.org/select/
 https://jtuiymang2.eips.com.au/mobile/login/
@@ -11539,6 +11700,8 @@ https://karunajaiswal430-gif.github.io/netflix/
 https://karuppuduraik.github.io/Netflix/
 https://kasmc.top/Fa%C3%adscaInicial.apk
 https://kasnahi.net/
+https://katisbuilders.com.au/mobile/front/
+https://katisbuilders.com.au/mobile/login/
 https://kauailian11.icu/Kl.zip
 https://kauailian11.icu/kl1.zip
 https://kauckoin-logi.godaddysites.com/
@@ -11673,6 +11836,7 @@ https://kmyjh.top/001.apk
 https://knaktdm.cn/action/home/request/type=un/
 https://knaulwww.production-insight.jimpike.com.au/mobile/front/
 https://knaulwww.production-insight.jimpike.com.au/mobile/login/
+https://knowingly-triangle-737035.framer.app/
 https://koiicignlagn.godaddysites.com/
 https://koikenlgein.godaddysites.com/
 https://koincaselogo.godaddysites.com/
@@ -11888,6 +12052,7 @@ https://learn-base-extension.pages.dev/
 https://learn-coinbas-cdn.pages.dev/
 https://learn-coinbase-access.pages.dev/
 https://learn-docs-itrustkapit.webflow.io/
+https://learn-en-ledger-log-in-web.pages.dev/
 https://learn-features-about-trzrsuite.pages.dev/
 https://learn-loginledgerlive-eng.pages.dev/
 https://learn-mataask-extesion.pages.dev/
@@ -11954,6 +12119,7 @@ https://ledgerr-com-startt-cck.pages.dev/
 https://ledgerr-com-sttart.pages.dev/
 https://ledgerr-liiive-login.webflow.io/
 https://ledgerr-live-logiinn.pages.dev/
+https://ledgerr-live-loginn.pages.dev/
 https://ledgerr-livee-login.pages.dev/
 https://ledgerrcom-run.pages.dev/
 https://ledgerregulatelive.com/
@@ -11966,7 +12132,9 @@ https://ledgerwalleet.webador.com/
 https://ledgerwallet.webador.com/
 https://ledgerwalletmanager.firebaseapp.com/
 https://ledgr-auth--s-auths--sso.webflow.io/
+https://ledgr-wallet-io.pages.dev/
 https://ledgre-livee-desktopd.webflow.io/
+https://ledgrr-logn-secure.pages.dev/
 https://ledian.top/assets/download/setup.exe
 https://ledjiuju-ajkj4j.pages.dev/
 https://ledrlivewallet.pages.dev/
@@ -12133,6 +12301,7 @@ https://login-coinbaes-pro.vercel.app/
 https://login-coinbasepro-net.typedream.app/
 https://login-hood-robin-auth.pages.dev/
 https://login-interbanco.avisosinternos.com/?rid=JFjgo7V
+https://login-ndex-app.pages.dev/
 https://login-office-files.vip/
 https://login-robin-hood-begin.pages.dev/
 https://login-screen-104568.weeblysite.com/
@@ -12146,6 +12315,7 @@ https://login.0365admin.me/i29p0h9l6q7v09vb
 https://login.0365admin.me/jjbw73w6udpc5bqq
 https://login.0365admin.me/o0itfpt04p85ca0d
 https://login.0365admin.me/svs8afrm5749g3f3
+https://login.auth-session-login.com/?keyname=yJ9pdUK
 https://login.cpcalendars.obacs.com.au/mobile/login/
 https://login.cpcalendars.sspl.com.au/mobile/front
 https://login.dk-post-ppostnord.qpon/D/
@@ -12154,6 +12324,7 @@ https://login.ethanthegreat.com/
 https://login.facilities-communications.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a
 https://login.loginms-365online.com/?rid=PIGnbcz
 https://login.lojacorrr.com.br/
+https://login.offiec.us.kg/ms-help.html
 https://login.pixeladmin.com/jsdisabled
 https://login.salesforce.com/setup/connect
 https://login.salesforce.com/setup/connect?user_code=8KCQGTVU
@@ -12310,6 +12481,7 @@ https://mail.eccolo.com.au/mobile/login
 https://mail.en.surveytime.com.sg/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a
 https://mail.foxdoors.com.au/mobile/login/
 https://mail.gov.bd.account.file.updatemind52.com/CeqKyQXz
+https://mail.hanison.com/
 https://mail.instalacionesmejia.com/Chase/02b4beacbb8f9ab1df8c54710581d91a/
 https://mail.instalacionesmejia.com/Chase/6fb3a52e14f26cba0d6d245fd677d509/
 https://mail.jimpike.com.au/mobile/front/
@@ -12317,6 +12489,7 @@ https://mail.jungara.com.au/mobile/login/
 https://mail.med.sspl.com.au/mobile/front
 https://mail.mengwei.caq.com.au/mobile/login/
 https://mail.museumspotlighteurope.com/museumspotlightisrael.com/findways/
+https://mail.qbm.hfh.temporary.site/VBV/password.php
 https://mail.rmail-redelivery.com/destination?sslchannel=true&sessionid=Ld4HK14DvT3AmZ99HakECuGabJvzBqLfCrdTGmcehYSVEBI2vMBBR1poyQAuvOtjE6mXeKR34Q8URhIuIUJM4bc3iElTTd5tCyH8UYGLc20F8SgOnDkVr2JrlXQnI8jU98&allow=yes
 https://mail.saldodanafreeeee.duckdns.org/
 https://mail.santanderpod.globalizeme-dublin2.co.uk/
@@ -12402,6 +12575,7 @@ https://mailx.jimpike.com.au/mobile/login
 https://main-dh.github.io/DHL_ENV/
 https://mainchainhub.xyz/
 https://mainnet.helius-rpc.com/?api-key=97188cdf-0b78-4cba-86f9-c4bbbd44c6aa
+https://mainnet.solana-rpc-pool.workers.dev/
 https://maiscapitalvale.site/home/
 https://majestic-torte-94f883.netlify.app/
 https://make-reserve.com/chshcycs
@@ -12550,6 +12724,8 @@ https://meta-focal.pages.dev/
 https://meta-for-business-security-assessment.pages.dev/
 https://meta-for-business-standard-help-messaging.pages.dev/
 https://meta-for-business-standard-support-quality.pages.dev/
+https://meta-galrix-feedback-dossier.pages.dev/
+https://meta-garven-feedback-map.pages.dev/
 https://meta-horizon-236.pages.dev/
 https://meta-mask-log-in.godaddysites.com/
 https://meta-maskloig.godaddysites.com/
@@ -12560,6 +12736,7 @@ https://meta-planehub.pages.dev/
 https://meta-reconnect-online-server.vercel.app/
 https://meta-rise.pages.dev/meta_for_business/
 https://meta-stream-86w.pages.dev/
+https://meta-support-authpass.pages.dev/meta_for_business
 https://meta-support-client.pages.dev/
 https://meta-support-dome.pages.dev/
 https://meta-support-grid.pages.dev/
@@ -12646,6 +12823,9 @@ https://mhfarokdev.github.io/Facebook-Blue-verified-/
 https://mi-ishop-loggin.help/isignesp.php
 https://miagendalivess.vercel.app/
 https://miatheflatcoat.com/wp-content/webmail/
+https://michaelderebuilder.com.au/mobile/front/
+https://michaelderebuilder.com.au/mobile/login
+https://michaelzat.github.io/Atividade-5-Projeto-NETFLIX---Bootstrap/
 https://micro67t3tfyt86.weeblysite.com/
 https://microsftsent1.wixsite.com/accountsshopifycom
 https://microsoft-landing-page-wine.vercel.app/
@@ -12658,6 +12838,7 @@ https://mikabasano.com/e75bf4/junotex/index.htm
 https://milan-italiya.github.io/Amazon-clone
 https://millertoken.github.io/YuSwap/
 https://milto-art.com/jvhmktkj
+https://min-ice.com/VBV/password.php
 https://min-telenor.com/VBV/otperrror.php
 https://mina-y4lv6k4woehwpkp4.builder-preview.com/
 https://mindtioter.pages.dev/
@@ -12728,6 +12909,7 @@ https://mlylpd.kytiauyoss.es/IeeUWQ2y9Ws2b!uPR/$3mail@b.c
 https://mm_mettaamak_logg-in3.godaddysites.com/
 https://mmamask-us.godaddysites.com/
 https://mmapphub.pages.dev/assets/%22
+https://mmapplicationshub-bhi.pages.dev/select
 https://mmazznsbdegwudif.weebly.com/
 https://mmeatammaskklogin.webflow.io/
 https://mmet22t1.github.io/r3wrr/
@@ -12799,6 +12981,7 @@ https://ms.attollo.com.au/mobile/login
 https://msazs.cloud/
 https://msn5-casefb670892.vercel.app/
 https://mssuchy.cz/apps
+https://msteams.my-premium.cloud/e2q3lrjo4ga6me9m
 https://mt-add-hitos-cv9d.vercel.app/tionds-crod/transparency.meta.com_sp_00353483110-enforcement-taking-action-restrictins-acounts.html
 https://mt-swift.com-ustf.us/
 https://mta-sts.mail.mdcomp.com.au/mobile/front/
@@ -12816,6 +12999,7 @@ https://mtoken.men/
 https://mtraed.zalder.top/
 https://mtv.apx.mybluehost.me/update/netflix/login/login
 https://muaaweyahkp.github.io/fb-signup-bs5/
+https://mudit0004.github.io/Netflix/
 https://muhammad-maaz-0907.github.io/Netflix-Clone/
 https://muhammadameen2615-arch.github.io/Amazon/
 https://muhammadbilal0011.github.io/CodeAlpha_Task3/
@@ -12900,6 +13084,7 @@ https://my-online-login-bank-capitalone-app.vercel.app/
 https://my-own-git-main-interservers-projects.vercel.app/
 https://my-secure-itrust-capital.webflow.io/
 https://my-secure-ndax-sso.webflow.io/
+https://my-site-107137-100140.weeblysite.com/
 https://my-site-107828-102085.weeblysite.com/
 https://my-so-itrustcapital-cdn--auth.webflow.io/
 https://my-sso----itrustcapital-com--auth-h.webflow.io/
@@ -12982,6 +13167,7 @@ https://najwxk.cn/xzswa/
 https://naman82bohra.github.io/
 https://naman8859.github.io/Netflix/
 https://namanarora2707.github.io/Netflix/
+https://namejahre.com/tons_a/
 https://namitabagri.github.io/amazonClone.github.io/
 https://nandayo.ru/srgssdfsf
 https://nandhanahari.github.io/netflix-clone/
@@ -13026,6 +13212,7 @@ https://nctzlo.pmzsovq.es/0w0xntwOjTPBX@/*3mail@b.c
 https://ncym.globalonlineotto.com/
 https://nd-ex-login.pages.dev/
 https://ndana1.github.io/
+https://ndax-login-hub.pages.dev/
 https://nddaxloogi.godaddysites.com/
 https://necessary-improvements-case-pvq9.vercel.app/business.help/transparency.meta.com_fb_case_159551727005616-enforcement-taking-action-restricting-accounts.html
 https://necessary-improvements-case-pvq9.vercel.app/business.help/transparency.meta.com_fb_case_159551727005616-enforcement-taking-action-restricting-accounts.html/
@@ -13069,6 +13256,7 @@ https://netflil.com/hk-en/redeem
 https://netflil.com/login
 https://netflil.com/loginhelp
 https://netflix-clone-36d61.firebaseapp.com/
+https://netflix-clone-beige-48.vercel.app/
 https://netflix-clone-chi-silk.vercel.app/
 https://netflix-clone-delta-ecru.vercel.app/
 https://netflix-clone-eta-ivory.vercel.app/
@@ -13255,6 +13443,7 @@ https://noi78-h01-31-38-208-6.dsl.sta.abo.bbox.fr/
 https://noiselyx.vercel.app/managerment/aBdxLmQWeRtYuIoPaSdF.html
 https://noktamnela5r.blogspot.ba/
 https://nongree.ac.th/web/images/random/made-in-china-fresh-RD2043-tele/index.html/
+https://nonyanefoundation.org.za/wp-includes/cgi-/amex-online/blob.html
 https://noreply-issue-thai-matter.firebaseapp.com/
 https://noreply-issue-thai-matter.web.app/
 https://norproftxd.github.io/Facebook/
@@ -13525,6 +13714,8 @@ https://order-submission-yutyrdytfugiohj-hg.vercel.app/
 https://orenburg-rabota-vachtoy.ru/high.html
 https://organized-seaturtle.static.domains/
 https://original-types-427266.framer.app/
+https://orj.bfm.mybluehost.me/CREDIT%20AGRICOLE/pages/region.php?lca#5947c1ad7f6f6b93e
+https://orj.bfm.mybluehost.me/website_b44af0e6/CREDIT%20AGRICOLE/pages/region.php?lca#b6ab7154d7372ef26
 https://orvngeclient.com/
 https://osems-dan.github.io/E-commerce-page-/
 https://osmer12.github.io/neflix
@@ -13657,6 +13848,8 @@ https://papuyji.info/
 https://paqenvioespanawps.wpdevcloud.com/wp-admin/includes/explorer/biblioteca/pin.php
 https://paquetecorreosenvio.wpdevcloud.com/correos/COCO/corr/corr.php
 https://paquetexcorreoswps.jdevcloud.com/wp-admin/css/colors/light/CORREOS-CORREOS/biblioteca/billing.php
+https://par30s.ir/correos.paquet.67788377364/correos/
+https://par30s.ir/correos.paquet.67788377364/correos/corr/corr.php
 https://parascadd.com/blobmoore.html
 https://park-pcnqay.top/index.html/
 https://park-pcnqel.top/index.html/
@@ -13915,10 +14108,12 @@ https://policy.mail163cn.info/cdd5de23-40c7-4600-997a-ef0ec80278dc
 https://polite-conkies-43d5fb.netlify.app/
 https://politicians-hoped-garbage-rebates.trycloudflare.com/
 https://polythecnicithelpdesk.fovaje1405.workers.dev/signin?sso_reload=true
+https://pontosnovos.ru.com/
 https://poojabaghel-11.github.io/Netflix/
 https://poojamar.github.io/NetFlix-Loginpage/
 https://poojauppugandla.github.io/amazon-clone/
 https://poojitha-ramesh.github.io/amazon
+https://poojithareddy-24.github.io/Web-Clone/
 https://pop.3lo.com.au/mobile/front/
 https://pop.attollo.com.au/mobile/login
 https://pop.jimpike.com.au/mobile/front/
@@ -13953,14 +14148,19 @@ https://portal-trezorsuite-x-eng.pages.dev/
 https://portal-trzr.pages.dev/
 https://portal-upheld-en.squarespace.com/
 https://portal-uphold-com-cdn.typedream.app/
+https://portal-upholld-login-eng.pages.dev/
 https://portal.cpanel.3lo.com.au/mobile/front/
 https://portal.cpcontacts.lectec.com.au/mobile/front
+https://portal.thecourierguy.co.za/
 https://portal.usallance.org/?rid=WaEzZ7M&refAgent=YnY4ZHNidnk4ZGJ2YmVyd2tiZXJ3eW92YmV3Z2pld3F5NDMydDYyNDMxNnc0eWFlaGJlcnNhaA&&kex=HFIGiehhhvoaew03285771Hsigbveu&userRef=3mail@b.c&authToken=Y3dmZGViYWxocndlbmhyM25xcDloZ2o0MndvYjJ3bzA0Mg
 https://portalcontratualdaconta.com/entrar.php
 https://portalcontratualdaconta.com/entrar.php/
 https://portaldecontratosdaconta.com/entrar.php
 https://portaldetaxasecontratosdaconta.com/entrar.php
+https://portalitau.com.co/
 https://portfolio-ehwhsob.format.com/
+https://porthughesholidayhouse.com/mobile/front/
+https://porthughesholidayhouse.com/mobile/login/
 https://post-ch-paket-vorbereitet.netlify.app/
 https://post.attollo.com.au/mobile/login
 https://post.jimpike.com.au/mobile/login
@@ -14004,6 +14204,7 @@ https://pratham3333333.github.io/AmazonClone/
 https://prathamacharya1116.github.io/netflix-landingpage-clone/
 https://precious-person-875680.framer.app/
 https://predictable-company-245867.framer.app/
+https://preentootmist.org/?uinfo_message=Resilient_Voices
 https://prem6266-hub.github.io/Netflix-Clone/
 https://premgupta69.github.io/netflix-ui-clone
 https://premiae.cyou/bp
@@ -14072,6 +14273,7 @@ https://programmer-aai.github.io/Amazon-Clone/
 https://programzon.com/auth/program/signin
 https://progredirpetrobras.online/home/
 https://project-repo-193s.vercel.app/
+https://project-trezor-bridge-cdn.pages.dev/
 https://projectiocreator.github.io/thereward/
 https://promecr.42web.io/
 https://promedida.online/
@@ -14141,12 +14343,16 @@ https://pub-238e2dc64da94a62a529283a48b0e62d.r2.dev/att-login-screen%20(3).html
 https://pub-23a2e2e234334745a9efe4cbe160602b.r2.dev/vb21.html
 https://pub-267e75099df1409cb8ac9c2adf802a43.r2.dev/index.html
 https://pub-2850cd5d83b9406498615dc0f50afc0d.r2.dev/index.html?d988c2062be66a44efa842b0959f0d
+https://pub-28be97a1574248e9b1bfe6e6f2e887d0.r2.dev/index.html
 https://pub-28d82ce6c6704e93bf5f9d178edc4ce5.r2.dev/campain.newsletter.clicks.ec88c88ae4615bbc36ab6ce4110915bbc36ab6ce41109.html
 https://pub-2916f79c02924f4090d165d00e7d0ff0.r2.dev/index.html
 https://pub-2a92347ea03e4260a6bb3d381381c037.r2.dev/index.html?c8df7e97363bfa3b7180b82fb2453a
+https://pub-2bd1ac73bae34c41a271424afba83426.r2.dev/index.html
+https://pub-2c68480716ae4d76943f8ddbc6158fbf.r2.dev/index.html
 https://pub-3021da1d41de4d38a0385a99efb05c93.r2.dev/wallet.html
 https://pub-30497844ba0d46b58f5ef9bf055a46ed.r2.dev/int-blob.html
 https://pub-309b231646564b219694fdb2eea60382.r2.dev/b35.html
+https://pub-3123892daed8436c8f950d00b1a4db68.r2.dev/index.html
 https://pub-31e25c6f370e42639ffb59285eb09813.r2.dev/index.html
 https://pub-34ef152cd54645d6bfb59e199b493be6.r2.dev/index.html
 https://pub-35704d59036a4d7fa2449855c8acd143.r2.dev/index.html
@@ -14161,7 +14367,9 @@ https://pub-3b7b8e6ff8d744718348f6b6ff779463.r2.dev/index.html
 https://pub-40ea7438bede4d77bad8f6c9675b1885.r2.dev/index.html
 https://pub-4106757ffadd4696bfa963a0b6955e4f.r2.dev/index.html
 https://pub-41dcc2b0c242484a90a139557123d677.r2.dev/index.html
+https://pub-41f4551ed505434b9030870c0dc6912b.r2.dev/index.html
 https://pub-43322d50f37946a4abafe95ce495016c.r2.dev/index.html
+https://pub-436465c6ef494fe2b4e02b05a69ac5c4.r2.dev/index.html
 https://pub-45ea18b875534801b02fc1d5eb1cb013.r2.dev/index.html
 https://pub-48d78b8179584b6a887a19c1e157a693.r2.dev/index.html
 https://pub-4a4ada9133f143ecbe0c28ef50350c8e.r2.dev/index.html
@@ -14170,6 +14378,7 @@ https://pub-4b5b1451b36045cebca49121b6a840fa.r2.dev/index.html
 https://pub-4b6dd95b0b58482ea6e2bf4bed17d20a.r2.dev/blorus.html
 https://pub-4b857e143fb64003a534ea2ef1a84400.r2.dev/index.html
 https://pub-4c5c0c80086f497a9866740418b11fce.r2.dev/index.html?5f7a536eb43fba12f33fb288eb0f43
+https://pub-4c5c0c80086f497a9866740418b11fce.r2.dev/index.html?5f7a536eb43fba12f33fb288eb0f43%233mail@b.c
 https://pub-4f78d76a71134c96b91c890e91d381e0.r2.dev/index.html
 https://pub-4f9d90fc7af3453b8b1d803589a070ff.r2.dev/index.html
 https://pub-4fbfaf0e590e4a9f80dbcd58eb219b41.r2.dev/index.html
@@ -14182,6 +14391,7 @@ https://pub-51656ae3d0ef4f2ba59cdfc6830c8098.r2.dev/meeting.htm?utm_campaign=863
 https://pub-53c289d494a14e3cb31efc744685837e.r2.dev/index.html
 https://pub-559119878701455b96369dceaf339b93.r2.dev/index.html
 https://pub-565215915290475fb1ef83eb23a9fe78.r2.dev/index.html
+https://pub-570ecbc453d2491bb6d62cb389ff791e.r2.dev/index.html
 https://pub-58f1d5f59c2149f8b470769754097f96.r2.dev/index.html
 https://pub-5a863c3fe71b444abaee1a835384752d.r2.dev/bas.html
 https://pub-5c4cef75b08546e281f71e80755c72f1.r2.dev/index.html?ebfd60abf8d36190e954f84dc193ba/
@@ -14227,6 +14437,7 @@ https://pub-8f9d3979db924ad39f609dabe7f4a849.r2.dev/index.html
 https://pub-9095a9efcc104e769e0c534b6791c711.r2.dev/index.html
 https://pub-91e9a48fc3644df88c28b868323d384f.r2.dev/xik.html
 https://pub-940877c0107e445ea0eb8f1d9e45b70b.r2.dev/index.html
+https://pub-96401d4ea5644ab29381131d7a068626.r2.dev/myThecourierguy/index.html
 https://pub-977387103b0546a98d9ab9eec9a3dfd7.r2.dev/index.html
 https://pub-98040ea363724ccebacba31c3ad69f60.r2.dev/index.html
 https://pub-9abe1d58953445cbaa96094e48808359.r2.dev/index.html
@@ -14258,6 +14469,7 @@ https://pub-b50adc5d699a4f08aec37102c2103da7.r2.dev/index.html
 https://pub-b5964d75c6b1460181dff4850e8dcb82.r2.dev/z31.html?__cf_chl_rt_tk=kh2LvXfOcb5gGiNhrB4w3m6S.PfcUUFTDfYj5Kwk3rE-1718273393-0.0.1.1-3967
 https://pub-b6487c8fd5c842c9a9451e57e247839c.r2.dev/index.html
 https://pub-b8735748a9474ef684b83941ce4cdb65.r2.dev/index.html
+https://pub-ba670f5c0ee843ed96eb600679b2351b.r2.dev/index.html
 https://pub-ba8a00d4bfaa4648876753ba9b5403f5.r2.dev/frm.html
 https://pub-ba929d2ab1f04e75869e394f6d120bba.r2.dev/index.html
 https://pub-bbef434517ee4b7cbbaeb60226e2f69c.r2.dev/index.html
@@ -14267,11 +14479,13 @@ https://pub-bd20a7152b8a4145ae79ad5fbb38046f.r2.dev/index.html
 https://pub-bf410a88ec67437fb183b22f87a37d63.r2.dev/index.html
 https://pub-bff73fea0cd34ba18479407ee3443024.r2.dev/index.html
 https://pub-c1ba488cfa3f48d8826110d757981ec4.r2.dev/index.html
+https://pub-c24084c1fca8452580d9815c64c10137.r2.dev/index.html
 https://pub-c33628113ba248a385ec717b6d48d283.r2.dev/index.html
 https://pub-c3fac41fc6884e3db327baaa4dce5290.r2.dev/index.html
 https://pub-c498eb31b5d846b1bd6aa9a794d815e7.r2.dev/index.html?c815f8f35618d25494345cce8c7ec1
 https://pub-c56ac0852cc84b72bd8e7afff5610030.r2.dev/index.html
 https://pub-c62c504a31044709b84d1698c338f5e6.r2.dev/MMCMXXAmx32.html
+https://pub-c72d6e04256340fa893c9fa7e2531ffc.r2.dev/index.html
 https://pub-c7c5eb098bba44f6a8e0da9395a588dd.r2.dev/b49.html
 https://pub-c94367e5baa843f888a12edd2f16527d.r2.dev/index.html
 https://pub-cbbbdbb791f142d09896ea6bd5814713.r2.dev/index.html
@@ -14281,10 +14495,12 @@ https://pub-d29f8a56eb424ab0be38e649e8a90c2f.r2.dev/index.html
 https://pub-d2c6a20d947e48b0bd98db1d94f3c1a7.r2.dev/index.html?11092afb38660bafa3b2781e48d59e
 https://pub-d5295b49d0874fe9b32ead8cf37d2390.r2.dev/index.html?c6326ce040c53888d749ea65cbe54a
 https://pub-d8009c8fb8464caba06a48bd8a06d8ba.r2.dev/index.html
+https://pub-da1ae45a44cd4649bf4971fa8b35cd77.r2.dev/index.html
 https://pub-db8a555cc7604d94b73be74bd644de95.r2.dev/index.html
 https://pub-dc442cfa2bf4422fb0adb1f6f0bd9237.r2.dev/index.html
 https://pub-dc5e2b185ea941fca482351935a0f3be.r2.dev/index.html
 https://pub-dc804b72c9da4fbebfb61d0734640af3.r2.dev/att-login-screen%20-%201.html
+https://pub-dd45cece16be4e30b58cc97f31300cfa.r2.dev/index.html
 https://pub-e0538100435c464db1bb1e2637ab7c52.r2.dev/english%20(2).html
 https://pub-e159ad590eb64e9387fe71b4a6aa7c59.r2.dev/index.html
 https://pub-e2f6341451ca4b26ac23c6bea7b95d1d.r2.dev/index.html
@@ -14305,6 +14521,7 @@ https://pub-f4268f72d08c4fa49ebd12282dd5d2af.r2.dev/15.html
 https://pub-f9a5c0a6eb6f4ccdae33c7dfb02df452.r2.dev/index.html
 https://pub-fa57262cb70c48bdb9131ca0af874289.r2.dev/Flis1.zip
 https://pub-fa57262cb70c48bdb9131ca0af874289.r2.dev/cgocmo.zip
+https://pub-fab23dfb3aa84bb6ba6818d28db86a2e.r2.dev/index.html
 https://pub-fc3820d54fb14f8d8af3cbb580947864.r2.dev/index.html
 https://pub-feb99a8e8a744872bd5d9a7a88924454.r2.dev/index.html
 https://pub-fef07757960444bf92d1ef604974a968.r2.dev/gig%20(2).html
@@ -14356,6 +14573,7 @@ https://q-r.to/bgG0pt
 https://q-r.to/bgGsHx
 https://q1f2.tap22360td.cc/
 https://q1kv86h9rdvlnkg9.3lo.com.au/mobile/login/
+https://q3-audi.de/?rid=wHRxabg
 https://q4t5wbw.duckdns.org/
 https://qa-dash.jimpike.com.au/mobile/front
 https://qa-data.nyisztor.com.au/mobile/front/
@@ -14591,6 +14809,11 @@ https://rectifyissues.vercel.app/
 https://rectifys-issuess.vercel.app/
 https://rectifysyncfixapp.pages.dev/connect33
 https://red-i.help/isigneng.php
+https://red2rajpoot.github.io/Gjjjj/
+https://red2rajpoot.github.io/Hgh/
+https://red2rajpoot.github.io/Nnnn/
+https://red2rajpoot.github.io/Quiz.Bihar/
+https://red2rajpoot.github.io/Uuuuu/
 https://redacted/property-aid-63785823-label-gen-832513841233/en/528104900
 https://redeem-1.replit.app/
 https://redeemnow.staticrun.app/
@@ -14638,6 +14861,7 @@ https://reporting.production.jimpike.com.au/mobile/login
 https://reports75039036387.notice-account.com/75039036387
 https://reputationrescue.info/
 https://req-eds-v-i-d-web.pages.dev/
+https://request-for-review-remove-here.wasmer.app/
 https://requestrepo.com
 https://required-case-d6my.vercel.app/community_support/Notifications.fb.com-help_1005165994166600.html
 https://required-case-d6my.vercel.app/community_support/Notifications.fb.com-help_1005165994166600.html/
@@ -14728,6 +14952,7 @@ https://robinhood-cdn-auth.typedream.app/
 https://robinhood-com-autth-public.typedream.app/
 https://robinhood-login-access-us-sso.typedream.app/
 https://robinhood-login-docs.flazio.com/
+https://robinhood-login-review-cdn.github.io/en-us/
 https://robinhood-login-rob.typedream.app/
 https://robinhood.evalvidz.com/invite/fZ6j8A2k
 https://robinhood_logius.godaddysites.com/
@@ -14771,6 +14996,8 @@ https://roooroooroo.weebly.com/
 https://rootforge.za.com/
 https://rootunvdwl.com/un1/uhard.dat
 https://ropagang.com/bec8986/
+https://rosastorelli.com/mobile/front/
+https://rosastorelli.com/mobile/login
 https://roshan-keshri.github.io/Netflix_Clone/
 https://roshan1223.github.io/Amazon/
 https://roshniyadav00001.github.io/netlify/
@@ -14955,6 +15182,7 @@ https://sandeep-yallamilli.github.io/NETFLIX-CLONE/signup.html
 https://sandeepkumarf1.github.io/amazon-landing-page/
 https://sandhya187.github.io/website/
 https://sandipkumarv.github.io/Netflix-Clone/
+https://sanebliss.github.io/Netflix-Clone/
 https://sanika-alt.github.io/amazon-clone/
 https://sanikathorat60.github.io/Netflix-clone
 https://saniya19saba.github.io/amazon-clone/
@@ -15018,7 +15246,11 @@ https://sap2243wnn.cc/
 https://sap2244zav.cc/
 https://sap254356f.cc/
 https://sap2557fn9.cc/
+https://sap2798ad8.cc/
 https://sap33510ym.cc/
+https://sap3567rat.cc/
+https://sap3623dl6.cc/
+https://sap3746sio.cc/
 https://saqibkhan000.github.io/Netflix-Clone/
 https://sarahhussain00.github.io/zeeeshan-1/
 https://sarang27dev.github.io/Amazon/
@@ -15050,6 +15282,7 @@ https://sawiosl-f51a2.firebaseapp.com/
 https://sawiosl-f51a2.web.app/
 https://sayan861.github.io/amazon-project-/
 https://sayem-bhuiyan.github.io/New-Projects/
+https://sayerselectrical.com.au/mobile/front/index.html
 https://sb-invoices.castineapps.com/
 https://sbcbell.webflow.io/
 https://sbloffers.replit.app/
@@ -15092,6 +15325,7 @@ https://secure---iturstcapital--uath.webflow.io/
 https://secure--itrust-capital--login.webflow.io/
 https://secure--itrust-capital--loginn.webflow.io/
 https://secure--sso--ndax--ca--auth.webflow.io/
+https://secure-auth-ledgr-live-login.pages.dev/
 https://secure-auth.pt/
 https://secure-blockfc-doc.webflow.io/
 https://secure-blockfi------sso-cdn.webflow.io/
@@ -15101,6 +15335,7 @@ https://secure-chase-com.wasmer.app/index2.html
 https://secure-chase-com.wasmer.app/info.html
 https://secure-chase-com.wasmer.app/otp.html
 https://secure-chase-com.wasmer.app/personal.html
+https://secure-coinbas-en-auth.pages.dev/
 https://secure-coinbase-help.square.site/
 https://secure-coins-eng-us.square.site/
 https://secure-coinsqur-portal-auth.webflow.io/
@@ -15353,6 +15588,7 @@ https://shivangishardul.github.io/amazon-clone/
 https://shivani9545.github.io/Basic-Project/
 https://shivani9956041.github.io/AMAZON-LANDING-PAGE/
 https://shivanitouradventures.com/cbxn/mfbr1n1lnstmlxdzx1zlnexjxsxgp-znngo1iuvcmm-1sbmx1dwx4dssdb4xxnzzdz1bdde-wuvxnjnvxnzuhudsbdjsjuwsu/
+https://shivmundhe7.github.io/Netflix-Clone/
 https://shivpujan26.github.io/Amazon_complete_clone_website/
 https://shlok-2006.github.io/Netflix-Clone/
 https://shmpz.cn/xzswa/
@@ -15466,6 +15702,7 @@ https://site-bophbnnbl.godaddysites.com/
 https://site-ekgdm7c3d.godaddysites.com/
 https://site-ewpbccuxi.godaddysites.com/
 https://site-ijt5hnn61.godaddysites.com/
+https://site-imqav3hyb.godaddysites.com/
 https://site-np5aml5mp.godaddysites.com/
 https://site-nui3qvj96.godaddysites.com/
 https://site-s9kxp0wps.godaddysites.com/
@@ -15474,6 +15711,7 @@ https://site-y8j6d66z8.godaddysites.com/
 https://site-yosi8ey9a.godaddysites.com/
 https://site.applerts.net/s/63BZGFSVBWSFCDX7Y9/85201f/8681e9a8-b42e-44fc-8482-459b41358d3c
 https://sites.google.com/l0gin-microsoftwebonlne.app/0858634?usp=sharing/
+https://sites.google.com/trajorstart.com/trezor-bridge/home
 https://sites.google.com/view/2025soco/
 https://sites.google.com/view/ads-n676432/app/pancakeswap
 https://sites.google.com/view/dblikes
@@ -15482,6 +15720,7 @@ https://sites.google.com/view/ndauqdj/uniswap
 https://sites.google.com/view/osk05
 https://sites.google.com/view/servicu83/home
 https://sites.google.com/view/sogoto
+https://siteworks.direct/correos.html
 https://sivareddy1223.github.io/Netflix-Demo-Webpage-/
 https://sivvino.com/contact
 https://sixflagsrosarito.com/two.html
@@ -15622,6 +15861,11 @@ https://soumyakeshri4.github.io/Netflix-Clone/
 https://soundar-2704.github.io/kalaiNetflix/
 https://souramita-94.github.io/Amazon-Clone/
 https://south.adcglobai.cyou/
+https://southprovesolutions.com/EPAWl
+https://southprovesolutions.com/FvFLcsr23
+https://southprovesolutions.com/KZouoRc
+https://southprovesolutions.com/VUkXugsYgu
+https://southprovesolutions.com/Zxdf
 https://souvik28232105.github.io/Amazon_Clone/
 https://souvikgit123.github.io/NETFLIX-CLONE/
 https://sowrav003.github.io/amazon-ui-clone/
@@ -15730,6 +15974,7 @@ https://sso-gemini-login-cdn.pages.dev/
 https://sso-itrustcapital-login-authz-sso.webflow.io/
 https://sso-itrustcapitalllogin.webflow.io/
 https://sso-metamask-wallet-eng.pages.dev/
+https://sso-ndax-portal.pages.dev/
 https://sso-ndaxx-x---cdn--authd.webflow.io/
 https://sso-outh-app-ledegr.webflow.io/
 https://sso-portal-blockfi-sso.webflow.io/
@@ -15741,6 +15986,8 @@ https://sso-trezo-io-strt-comfirm.pages.dev/
 https://sso-trzor-startt-login.free.site.pro/
 https://sso-uphod-com-x-cde.webflow.io/
 https://sso-uphold--auth-cdn-io.pages.dev/
+https://sso-uphold-auths-cloud.pages.dev/
+https://sso-uphold-log-docs-chw.pages.dev/
 https://sso-upholld-x-docs.pages.dev/
 https://sso-x-uphld-com-auth.pages.dev/
 https://ssoitrustcaital-sso.webflow.io/
@@ -15975,6 +16222,9 @@ https://store.workshopmodworks.com/sharedfiles/filesdetails/mac-10_poison_reveng
 https://store.workshopratesmods.com/sharedfiles/filesdetails/aug_poseidon/
 https://store.workshopratesmods.com/sharedfiles/filesdetails/mac-10_poison_revenge/
 https://store.workshopsavedmods.com/sharedfiles/filesdetails/ak-47_fortune
+https://store.workshopsharedmods.com/sharedfiles/filesdetails/aug_poseidon/
+https://stored-erspohh.com/e
+https://stored-erspohh.com/e/
 https://stormaditya.github.io/AMAZONCLONE/
 https://storspe.com/ICCU
 https://storspe.com/ICCU/
@@ -16030,6 +16280,7 @@ https://suite-cdn.netlify.app/
 https://suite-device-trezor-dwo.pages.dev/
 https://suite-trezor-io-eng.pages.dev/
 https://suite-trzorweb.pages.dev/
+https://suitetrezor-secure.pages.dev/
 https://sujal2309.github.io/Amazon-Clone/
 https://sujaljain100.github.io/FB-login-page/
 https://sujan010.github.io/amazon-clone1/
@@ -16070,6 +16321,7 @@ https://support-app-ledgrrdesktop.webflow.io/
 https://support-app-ledgrre-app.webflow.io/
 https://support-app-start-ledger-auth.webflow.io/
 https://support-auth-ledgre.webflow.io/
+https://support-com-faq.pages.dev/
 https://support-com-ledger-cdn.pages.dev/
 https://support-docs-ldger.webflow.io/
 https://support-docs-ledgers.webflow.io/
@@ -16096,6 +16348,7 @@ https://support-trezorr-login.pages.dev/
 https://support-trzxr-iio.pages.dev/
 https://support-tzr-waltt-cdn.pages.dev/
 https://support-up-hold-cdn.pages.dev/
+https://support-upheld-login-auth.pages.dev/
 https://support-uphold-cdn.pages.dev/
 https://support-uphuld-io.pages.dev/
 https://support-wise-account.barzelognasrl.it/
@@ -16230,6 +16483,7 @@ https://tap0037cis.top/
 https://tap0150mg7.top/
 https://tap0216kde.top/
 https://tap04250hb.top/
+https://tap0437qpr.top/
 https://tap0550khm.top/
 https://tap10085mo.cc/
 https://tap1118ekc.vip/
@@ -16264,6 +16518,9 @@ https://tap3690vic.cc/
 https://tap3749kl5.cc/
 https://tap3839c3q.cc/
 https://tap3881bis.cc/
+https://tap43250vn.cc/
+https://tap45252jf.cc/
+https://tap4584153.cc/
 https://tapaswinipatnaik.github.io/Netflix_Demo/
 https://tapaz.org/net-es/net-it/app/login.php/
 https://taptapsendapk.com
@@ -16322,6 +16579,8 @@ https://tejasanandyou2b.github.io/amazon/
 https://tejaswi416.github.io/Netflix_Clone_Project/
 https://tejaswini-ganji.github.io/amazon-clone/
 https://tejosaiyaswanth.github.io/amazon-website-ui-clone/
+https://teknetica.com.au/mobile/front/
+https://teknetica.com.au/mobile/login/
 https://telegon6.github.io/LinkedIn-Project/
 https://telegra.ph/Vizit-12-28
 https://telegramid--alirezarajabi4.toondarr11.workers.dev/
@@ -16442,6 +16701,7 @@ https://tiktokzm-1330426662.pichk.myqcloud.com/index.html
 https://tikus2.ydso.xyz/
 https://timco-eng.com/
 https://time-case-5wzp.vercel.app/page/help.html
+https://timeforgoldens.com/exchange-portal/index.html
 https://tinglaomanagement.com/landbank2/login
 https://tinylineq.vercel.app/managermentloc/abcfghijklmnoqrstuv/zxcvbnmopqrstuvwxyz.html
 https://tinyurl.com/225ulwgt
@@ -16512,6 +16772,8 @@ https://tracking.us.nylas.com/l/b31cf8f814fe46249a2a6554b8728285/0/5aa53b45fde6b
 https://trackingkm.bar/nl/address.html
 https://trackmyship.online/en-us/customer-support/faqs.html
 https://tradebotmdito.com/tradeoffernew/new/partner=1756525/token=RTxFn6318/
+https://tradefocus.com.au/mobile/front/
+https://tradefocus.com.au/mobile/login/
 https://trademew.com/main.html
 https://tradenest.vip/.xyzindex/user/register/invite_code/BPYKVN.html
 https://tradevisionproeg.com/project/JonKreiger.html
@@ -16624,6 +16886,7 @@ https://trozzrwallet.webflow.io/
 https://trrezorwalete.webflow.io/
 https://trrezzorr---wallett.pages.dev/
 https://trrzor--start-helps.webflow.io/
+https://truebellcapital.com.au/mobile/login/
 https://truewarstoriespodcast.com/
 https://trust-idverify.net/navigation/
 https://trustcaptloginkz.webflow.io/
@@ -16686,6 +16949,8 @@ https://tutmayinbizi.com/RR3000.htm
 https://twimle.cn/puvxrokt
 https://twinson32.wixsite.com/my-site-1
 https://twmlwcs.cc/tax-app/M-Pajak.apk
+https://twoleftfeetapp.com/mobile/front/
+https://twoleftfeetapp.com/mobile/login/
 https://txpo.fxjkd.es/GA!Ep58FEhdUq/
 https://txtmvq.cn/xzswa
 https://ty8ou.rhdomfiosgzy.es/FJ8b@IM74Y3CY2ws/
@@ -16802,6 +17067,7 @@ https://upholzogin.webflow.io/
 https://uphoold-loogiusa56.godaddysites.com/
 https://uphoslooign.godaddysites.com/
 https://uphuld-learn-logn-eng.pages.dev/
+https://upiholdloog.godaddysites.com/
 https://upiuohldlognxo.godaddysites.com/
 https://uploads-gain.vercel.app/business.html
 https://upollldllo-ggin.godaddysites.com/
@@ -16815,8 +17081,22 @@ https://uqlliid_logimm.godaddysites.com/
 https://url.emailprotection.link/?bC_CpEJKM1hq-fe7GX2IlbHiiCdPbNY6POov0BOElpTPi2oOdnPXS2Y7cDJCHPC2g0z1hF4Ps7a-S6QgpTpQVRltVqWW_-9Lse6yx8hVoMPa7hucVIRNMkxtlLispaM-y
 https://url.emailprotection.link/?bRJrzb27Fdz6PHiqHZ0_WJFkAv1mdkBelPaIOaYCseTgGiZw7vwGkMn0dn3UtSU1gL3xbLpwN_vRJPZWkGlW1FMsTsjGOoL8P6IiiivVKDtBT4Frcs9YgsJkzLA1yRgg24xivQipPN8zBJZgr1OjbALcbiMoHm7HZXiUIQ3Sj_cI~
 https://urls.fr/yB6sCR
+https://urlscannerfireeye.com/l59ymfbrf25uap5p
 https://urlz.fr/uFoF
 https://urlz.fr/uJjV
+https://urlz.fr/uMH9
+https://urlz.fr/uMib
+https://urlz.fr/uN2d
+https://urlz.fr/uN2e
+https://urlz.fr/uN2f
+https://urlz.fr/uN4i
+https://urlz.fr/uN4q
+https://urlz.fr/uN55
+https://urlz.fr/uN56
+https://urlz.fr/uN5N
+https://urlz.fr/uN5P
+https://urlz.fr/uN5Q
+https://urlz.fr/uN5T
 https://uro.xmxwegk.es/MIqq6AshPtxD/a2FyZW4uY2FyZXlAa2luZ3Njb2xsZWdlc2Nob29sLmJz
 https://us-app-ledger-live-login.pages.dev/
 https://us-en-metaacccaountscenterrhelpverify.pages.dev/login/1090971827783
@@ -16826,6 +17106,7 @@ https://us-h-auth-liveledger-live.webflow.io/
 https://us-la-acccount-center-helps-meta-business.pages.dev/login/100862375783246/
 https://us-mettaa-mask_loggin.godaddysites.com/
 https://us-trezor-log-in.pages.dev/
+https://us-trezor-wallet-en.pages.dev/
 https://us-uphold-login.pages.dev/
 https://us-ustrezor-log-in-faq.pages.dev/
 https://us-welcome-metamsk-cdn.square.site/
@@ -16943,7 +17224,9 @@ https://verification-commbank.com/main.html
 https://verification-help.netlify.app/
 https://verification.anydeesk.ink/reCAPTCHA-v2.php
 https://verification.iatroupe.com/ccctejw
+https://verification1464.thinoi.com/webmail.html?&1*1howd4r*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw6s7CBhACEiwAuHQckmMG4jVCQEvK3DNGEDrqDGuST1wMvQ9_63A__PM9DZlTksBhfJzmTBoC28MQAvD_BwE&gbraid=0AAAAAD_qHs_7MG
 https://verification2018.kristienkain.com/webmail.html?&1*1howd4r*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw6s7CBhACEiwAuHQckmMG4jVCQEvK3DNGEDrqDGuST1wMvQ9_63A__PM9DZlTksBhfJzmTBoC28MQAvD_BwE&gbraid=0AAAAAD_qHs_7MG
+https://verification209.thinoi.com/webmail.html?&1*1howd4r*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw6s7CBhACEiwAuHQckmMG4jVCQEvK3DNGEDrqDGuST1wMvQ9_63A__PM9DZlTksBhfJzmTBoC28MQAvD_BwE&gbraid=0AAAAAD_qHs_7MG
 https://verificazion-ing.web.app/
 https://verifiedmeme.pages.dev/wallet/assets/unpkg.com/f..*@1.5.3/dist/index-2.html
 https://verifier683858.click/
@@ -17104,6 +17387,7 @@ https://waaae.me/628xxxx11800
 https://waaae.me/84678XXX02
 https://waaddwaled.github.io/Mini-Amazon/
 https://wabvl-1stsource.ghjigclbopy.es/jF@xbdDedTRgwoK2c3/$d2lzbGVybEAxc3Rzb3VyY2UuY29t
+https://wakehurstlittleathletics.org.au/mobile/front/
 https://wakeln.github.io/apply-review-update/
 https://waletcoonect.gitbook.io/
 https://walija-sh.github.io/NetflixClone/
@@ -17118,6 +17402,8 @@ https://wallet-coinbse-com.plasmic.run/
 https://wallet-connetc.gitbook.io/
 https://wallet-exdos-web.github.io/en-us/
 https://wallet-exdus.pages.dev/
+https://wallet-ledgr-access.pages.dev/
+https://wallet-liv-ledger-access.pages.dev/
 https://wallet-metamask.duckdns.org/ap?infoPage=8474fba63c9b3beaffeed43644859546
 https://wallet-us-cdn-trezor.webflow.io/
 https://wallet-verify.duckdns.org/
@@ -17168,6 +17454,7 @@ https://web-booking.net473.one/payment/193477286
 https://web-git-feature-universal-farm.pancake.run/
 https://web-ldegrlive-login-us.pages.dev/
 https://web-ledegrlive-login-cdn.pages.dev/
+https://web-ledger-live-log-in.pages.dev/
 https://web-ledger-log-in-learn.pages.dev/
 https://web-ledgerrcomstart-dora.pages.dev/
 https://web-letsvpn.com/assets/download/weuyrletstt31-64.zip
@@ -17186,6 +17473,7 @@ https://web-upholdlogin.pages.dev/
 https://web.axis.bank.in/DigitalChannel/WebForm/?index9&axisreferralcode=AXGeoYBZJG
 https://web.bymembers.com/
 https://web.employeehronline.com/static/oijfdoiwepq98ruy892134987123g4589y0gv2138y4rgv128y3g4r80g230rq4/templates/Login-6/
+https://web.ledgerchains.com/en/al/qf/
 https://web.redwhatsapp.com/wacontrol/download
 https://web.studionailsbyalexandra.com/
 https://web.whatsapp-l1.com.cn/
@@ -17216,6 +17504,7 @@ https://webmailportal-login.mos.ap-southeast-2.sufybkt.com/Invoice%20payment%20.
 https://webrbcroyalbank.com/indexmain.php
 https://webs-logie--trezoor.webflow.io/
 https://webs-uphuld-cdn.webflow.io/
+https://websbayrntilarimizino7.xyz/
 https://websitesalecoltm.vercel.app/ofertas/
 https://webster-3bt.pages.dev/inquiry
 https://webx-danax-xhadiah2.tt3mr.my.id/Danaweb/
@@ -17410,6 +17699,8 @@ https://whats-xm.vip/
 https://whats-yj.vip/
 https://whats-yv.vip/
 https://whats-zb.vip/
+https://whats-zdb.vip/
+https://whats-zdk.vip/
 https://whats-zdq.vip/
 https://whats-zeh.vip/
 https://whats-zeq.vip/
@@ -17430,6 +17721,7 @@ https://whats-zqj.vip/
 https://whats-zqk.vip/
 https://whats-zql.vip/
 https://whats-zqm.vip/
+https://whats-zqn.vip/
 https://whats-zqo.vip/
 https://whats-zqv.vip/
 https://whats-zra.vip/
@@ -17471,6 +17763,7 @@ https://whats-zwk.vip/
 https://whats-zwl.vip/
 https://whats-zwm.vip/
 https://whats-zwn.vip/
+https://whats-zwo.vip/
 https://whats-zwu.vip/
 https://whats-zwx.vip/
 https://whats-zx.vip/
@@ -17790,6 +18083,7 @@ https://www.bitvavo.com.nl.services.qualitytrademade.com/profiel_bijwerken.php?X
 https://www.blog.webdisk.helenclare.id.au/mobile/login/
 https://www.blog.webdisk.jungara.com.au/mobile/login
 https://www.bo2.top/
+https://www.boissadysarl.com/assets/nog/nb/web/card.php?verification/
 https://www.bolaskin.https443.net/
 https://www.boldensdrycleaning.com/
 https://www.bonazxs.top/
@@ -17952,6 +18246,7 @@ https://www.eshopaipromospace.com/
 https://www.eskisehirdenakliyat.com/wp-content/plugins/XZorder/ntdlg.dat
 https://www.estatisticas.caq.com.au/mobile/front/
 https://www.estsensors.com/
+https://www.ethcoin.biz/
 https://www.exchange.sspl.com.au/mobile/front
 https://www.exodus-compliance.com/wallet
 https://www.exodus.secure-pair.com/kmtghiwdm
@@ -18483,6 +18778,8 @@ https://www.poc.reporting.cddental.com.au/mobile/front/
 https://www.poc.reporting.cddental.com.au/mobile/login/
 https://www.poczta.attollo.com.au/mobile/login/
 https://www.poczta.jimpike.com.au/mobile/login
+https://www.pontosnovos.ru.com/
+https://www.pontosrenova.ru.com/
 https://www.pop.jimpike.com.au/mobile/front/
 https://www.pop.jimpike.com.au/mobile/login
 https://www.pop.obacs.com.au/mobile/login/
@@ -18596,6 +18893,10 @@ https://www.sap20562gf.cc/
 https://www.sap2340l0m.cc/
 https://www.sap2397bsc.cc/
 https://www.sap2459hm3.cc/
+https://www.sap27304b9.cc/
+https://www.sap3623dl6.cc/
+https://www.sap372677d.cc/
+https://www.sapsisone.flazio.com/
 https://www.sarilarabiteriiiz.shop/
 https://www.sasexcel.cloud-netcraft.bid/view.html
 https://www.sbi.mycardcare.in
@@ -18653,6 +18954,8 @@ https://www.shh-y.com/
 https://www.shop.cpcalendars.sspl.com.au/mobile/front
 https://www.shop.v1yunz.duckdns.org/
 https://www.shopth-rakuten.artisp.com/
+https://www.sicred.ru.com/
+https://www.sign-jp0.rip/
 https://www.silverchalrpartners.com/ii/gf/sf_marley/sf_marley/?email=atcda.zitkck@ancpl.zf
 https://www.simmonsllns.vercel.app/
 https://www.sipac.mx/backup-apis-met/resources/lang/framework/trackingdhl
@@ -18709,6 +19012,7 @@ https://www.store.communitygameteam.com/sharedfiles/filedetails/id=22958664/
 https://www.store.communitygameusers.com/item/AWP-AncientHeritage
 https://www.store.communityuserdev.com/sharedfiles/filedetails/id=22958664/
 https://www.store.jimpike.com.au/mobile/login/
+https://www.storederspohh.com/k/
 https://www.stserv-209i3093099024e-vsc03293-statvs-e293923.vercel.app/
 https://www.sulimem.click/
 https://www.superset-production.jimpike.com.au/mobile/front/
@@ -18760,6 +19064,8 @@ https://www.technoproject.it/docs/teejoint.bin
 https://www.techprojectitr.box/sappurfaxia.pacx
 https://www.test.analytic.jimpike.com.au/mobile/login
 https://www.test.report.jimpike.com.au/mobile/front/
+https://www.thanhnam-tools.com/wp-admin/includes/Fox-SS/information.php?access.x9273652407&&data.x=en_838f5dfdfe12e8ab076181dc2
+https://www.thanhnam-tools.com/wp-admin/includes/Fox-SS/login.php
 https://www.thanhnam-tools.com/wp-admin/includes/plugins/information.php?access.x29011299233&&data.x=en_2f137a01c296daac8a7af25ba
 https://www.thanhnam-tools.com/wp-admin/includes/plugins/login.php
 https://www.thanhnam-tools.com/wp-admin/includes/plugins/login.php/
@@ -19020,6 +19326,9 @@ https://yhzl.ydso.xyz/
 https://yhztzj.secondhandparts.co.za:2083/impact?ELMTVMKRFQTZ=3mail@b.c
 https://yijfu.com/assets/download/LLSecurityPayEditEdge.exe
 https://yikego.com.cn/safe-2b31c
+https://yingvera12345.github.io/suorb12/
+https://yingvera12345.github.io/super1/
+https://yingvera12345.github.io/superb/
 https://ymailjkh.weebly.com/
 https://ymartdvstsmst.mizum.site/
 https://ymtbknh.cn/action/home/request/type=un
