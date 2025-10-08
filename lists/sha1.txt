@@ -1,7 +1,7 @@
 ################################################################
 # Recommended SHA1 Block List                                #
 # Tag: TLP="clear"                                             #
-# Last updated: 2025-10-07 18:00:30 +07                        #
+# Last updated: 2025-10-08 18:00:30 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 ################################################################
@@ -134,6 +134,7 @@
 1bb7b23f45ed80bce33a6b6e6bc4f99750d5a34b
 1c0bcc0663648f91187e964f87dcfedf23dc93cb
 1c6eb16df0a57a89a270a948f264462cfff834f5
+1ca908b27701259472c16614c3a69f48752bf6cf
 1cbdca134ffe3954e7d0adfeadc9624398709bba
 1d8a00fc3b012448081ebcf3acbba444650dfd2b
 1dda19d7c5b3bf0710867a6b8c9aac41f1aebda9
@@ -324,6 +325,7 @@
 4607f6c04f0c4dc4ee5bb68ee297f67ccdcff189
 463b0a11a2c0fec643a6532fe86c40bd85be50b4
 464aead7901305f689fe80326c83ffd7d0cd6a75
+46a530dd71b20a2b3f30b411dbe86f48e3d07750
 46ad0b138b878067a1e310969da8e3635989ca08
 475dfac980a119ea1e456a50f5c1bfe6ae81ecce
 47b63bc786960fda917ea9f5ff0023a3c50e2ca3
@@ -392,6 +394,7 @@
 56b46853e4d621a89cbcdefa6592cb72988080ae
 56f983d84168db795b4747c0f8efd7a32d97c866
 570ff05cccba70053276e12e935d741388c9555e
+572fc5774568e536f956a002e67ade23af19b034
 574ac34639193b36abacc5b221e0ba823a3a7cfa
 579f9e5db2befccb61c833b355733c24524457ab
 57c983f14bf810236eddc067277ba9daeb7a2de7
@@ -544,6 +547,7 @@
 7c01f6ed54dc5c8dd7f3d44fb2c5e7baed2b8e84
 7c081df5f4bdfc5fc84fd85120736069134e6f31
 7c0cdd66e350dd1818333cd7a5ac04db07dd96a1
+7c465b66ff8ef4132e74ab489f6731bd26a4b64d
 7c83ebfb29128042dbec6c447aaaad041bdf00ce
 7c861bcd2c735599d2cafd9c90fed2ae01acabbe
 7c9266a3e7c32daa6f513b6880457723e6f14527
@@ -579,6 +583,7 @@
 82ed942a52cdcf120a8919730e00ba37619661a3
 83667cff15c043af59e846475d0d9bb8c1e9496f
 83770c40dbbb1c30e988bbe7d7fe5c9876fbd29a
+83c3cda4bc929a84ccc16a25595a1e85ee433faf
 83c551aeb315daf31b3b8002080688712575e77a
 83db493de9c0d91d7f3e86b3f0d24853ab34326e
 8402aa507cf5b1bbfab53e3bf7a7d4500796a978
