@@ -1,7 +1,7 @@
 ################################################################
 # Recommended SHA256 Block List                                #
 # Tag: TLP="clear"                                             #
-# Last updated: 2025-10-25 18:00:35 +07                        #
+# Last updated: 2025-10-26 18:00:37 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 ################################################################
@@ -210,6 +210,7 @@
 082877e6f8b28f6cf96d3498067b0c404351847444ebc9b886054f96d85d55d4
 082903a8bec2b0ef7c7df3e75871e70c996edcca70802d100c7f68414811c804
 082fbf96c546fa58ccb72316a55b2c913ef9f551f7e761c7232a1477c14e6bb6
+08367ec03ede1d69aa51de1e55caf3a75e6568aa76790c39b39a00d1b71c9084
 08393e7b588035251e8f33b0c80b7f5c33501464ab7f74867470ea5d641c15f1
 083c4e0ffdc9edf0d93655ee4d665c838d2a5431b8064242d93a545bd9ad761b
 0841986d04b3ecc3f945c6660dfdb7755222a4b280e138b04ac2a35ef722ebac
