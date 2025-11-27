@@ -1,7 +1,7 @@
 ################################################################
 # Recommended MD5 Block List                                #
 # Tag: TLP="clear"                                             #
-# Last updated: 2025-11-26 18:00:53 +07                        #
+# Last updated: 2025-11-27 18:00:57 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 ################################################################
@@ -491,6 +491,7 @@
 24e19d29a47b6b5e1a39bf5e4c313194
 250325fe88f23803d29da3dd050b8d07
 254b7cca40f9e624b21841f60bff0919
+2551c468dffdc480403c0c2c251d852b
 25678b2ae2e1e4df75e73bf9d61292f2
 256a8520199c4d0b17833ac1adb7e931
 259282a58b4ab9a5b6d5cb1ef7252f7a
@@ -576,6 +577,7 @@
 2afcfba3f1959e9233fe2cb1a5c0f955
 2b005d843b03632a6596d29e8c1f11a4
 2b0c36e99ff931289b45226be0271bed
+2b3875b6b7913a5a61e2acccb4fb8ca9
 2b41e5485583721998cce9841f3ca8e5
 2b5068c452239291b9876f958291add9
 2b65d81601c1290f00656a9710f01fdb
@@ -2161,6 +2163,7 @@ c180e98725a466c3208e2c8874abc1ed
 c185e925ac7ec2c404edc5249fe43e4e
 c18ef511ca132e9a8ee6d53befe1074f
 c18ffb9a914d7883a9b08fe65833e64e
+c193742412e98f1d46953f1ee73841b9
 c1a5863ad6f31ecc1a9079927c69cbf2
 c1b818313721e2c0dc555d95b7cdf20f
 c1ce2575854b0d6916693c9ce78e5e79
