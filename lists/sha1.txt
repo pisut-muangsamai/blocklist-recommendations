@@ -1,7 +1,7 @@
 ################################################################
 # Recommended SHA1 Block List                                #
 # Tag: TLP="clear"                                             #
-# Last updated: 2026-06-07 18:02:34 +07                        #
+# Last updated: 2026-06-08 18:02:58 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 ################################################################
@@ -89,7 +89,6 @@
 07701239a7003699a02aa97bfab46e7b92800949
 077878c083067cdf584b4e109702bfb328f41ab9
 0779b08a67eca4ac3f8c3a6551c19f2a881f020c
-07c5599b9bb00feb70c2d5e43b4b76f228866930
 07d2a01e1dc94d59d5ca3bdf0c7848553ae91a51
 07d889e2dadce6f3910dcbc253317d28ca61c766
 07f7045655087436fdc048749a534f84d5098579
@@ -689,7 +688,6 @@
 4209dcadeaea6a7df69262fef1beeda940881d4d
 4225f3ab9f46f4f29941fe3e0d55fbf3ad758a1a
 42274bd4ebb82294bb5cc393f06cea45e25788ba
-423f2fcf7ed347ee57c1a3cffa14099ec16ad09c
 4243d0a770a5d91480ea600ab4fcc6464eccb31d
 4267ac917d37e445ceae3febe3e40e53b7313b38
 426a964a533de9fe7b9d033582770e167961f5bc
